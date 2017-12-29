@@ -306,7 +306,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "7d26ab73-899a-41fc-8049-26d5fcc64618";
 				PROVISIONING_PROFILE_SPECIFIER = Common_lhl_Development;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -323,7 +323,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "7d26ab73-899a-41fc-8049-26d5fcc64618";
 				PROVISIONING_PROFILE_SPECIFIER = Common_lhl_Development;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

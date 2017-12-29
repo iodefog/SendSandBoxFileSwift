@@ -26,6 +26,9 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
   For Swift
+
+  let fileListVC =  FileListTableViewController();
+self.navigationController?.pushViewController(fileListVC, animated: true);
                    DESC
 
   s.homepage     = "https://github.com/iodefog/SendSandBoxFileSwift"
@@ -91,7 +94,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "Classes", "SendSandBoxFileSwift/*.{h,m}"
+  s.source_files  = "Classes", "SendSandBoxFileSwift/**/*.swift"
   s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
@@ -119,7 +122,7 @@ Pod::Spec.new do |s|
 
   # s.framework  = "SomeFramework"
   s.frameworks = "MessageUI", "UIKit", "Foundation"
-
+  s.pod_target_xcconfig = { "SWIFT_VERSION" => "3.2" }
   # s.library   = "iconv"
   # s.libraries = "iconv", "xml2"
 
