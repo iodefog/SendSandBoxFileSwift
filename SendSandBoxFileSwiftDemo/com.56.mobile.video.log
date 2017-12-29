@@ -1,0 +1,1269 @@
+2017/12/29 00:59:38:328 [303] 💙💙[M9RequestRef 15][GET] http://api.tv.sohu.com/v4/mobile/plugin/list.json?api_key=af941ab19aef37c1cb224c601049e1e0&poid=1&plat=25&sver=5.0&partner=10
+2017/12/29 00:59:38:386 [303] [M9RequestRef 15] end sucess
+2017/12/29 00:59:40:548 [303] 💙💙[M9RequestRef 16][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0%2C92917158%2C96117906
+2017/12/29 00:59:40:821 [303] [M9RequestRef 16] end sucess
+2017/12/29 00:59:40:822 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 00:59:45:327 [303] [M9RequestRef 9] end sucess
+2017/12/29 00:59:45:328 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 00:59:45:328 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=4406958
+2017/12/29 00:59:47:921 [303] 🔥🔥频道[搞笑]，首次进入频道仅仅使用旧数据 channelid = 4
+2017/12/29 00:59:47:925 [303] 💙💙[M9RequestRef 17][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/channel/4/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 00:59:47:941 [303] [M9RequestRef 17] [use_cache end failure]
+2017/12/29 00:59:48:341 [303] 🔥🔥频道[资讯]，下拉刷新channelid = 3
+2017/12/29 00:59:48:349 [303] 💙💙[M9RequestRef 18][GET] http://rc.app.tv.sohu.com/56app/p/channel/3/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 00:59:52:759 [303] 💙💙[M9RequestRef 19][GET] http://api.tv.sohu.com/v4/mobile/plugin/list.json?api_key=af941ab19aef37c1cb224c601049e1e0&poid=1&plat=25&sver=5.0&partner=10
+2017/12/29 00:59:52:814 [303] [M9RequestRef 19] end sucess
+2017/12/29 00:59:54:641 [303] 💜💜--tmp
+2017/12/29 00:59:54:641 [303] 💜💜--SystemData
+2017/12/29 00:59:54:641 [303] 💜💜--Library
+2017/12/29 00:59:54:641 [303] 💜💜--Documents
+2017/12/29 00:59:54:641 [303] 💜💜--.com.apple.mobile_container_manager.metadata.plist
+2017/12/29 00:59:57:589 [303] 💜💜--UserInfo
+2017/12/29 00:59:57:589 [303] 💜💜--UserCollectionInfo
+2017/12/29 00:59:57:589 [303] 💜💜--SVChannels-0.plist
+2017/12/29 00:59:57:589 [303] 💜💜--PrivateDocuments
+2017/12/29 00:59:57:589 [303] 💜💜--Preferences
+2017/12/29 00:59:57:589 [303] 💜💜--Logs
+2017/12/29 00:59:57:589 [303] 💜💜--Caches
+2017/12/29 00:59:57:589 [303] 💜💜--Application Support
+2017/12/29 00:59:59:684 [303] 💙💙[M9RequestRef 20][GET] http://test.api.hd.sohu.com/v4/mobile/control/switch.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 00:59:59:685 [303] 💚💚[SVP:]---Reachability检测到网络变化：[2]
+2017/12/29 00:59:59:685 [303] 💚💚[D:]---网络状态变化：不允许使用WWAN
+2017/12/29 00:59:59:685 [303] 💚💚[D:]---当前下载超时时长更新为：12s!
+2017/12/29 00:59:59:685 [303] 🔥🔥[U:]---KVO 网络变化为［不允许使用WWAN］
+2017/12/29 00:59:59:685 [303] 🔥🔥[U:]---网络不能下载，准备保存任务状态，错误码：-100
+2017/12/29 00:59:59:686 [303] 💚💚[SVP:]---Reachability检测到网络变化：[2]
+2017/12/29 00:59:59:686 [303] 💚💚[D:]---网络状态变化：不允许使用WWAN
+2017/12/29 00:59:59:686 [303] 💚💚[D:]---当前下载超时时长更新为：12s!
+2017/12/29 00:59:59:686 [303] 💚💚[D:]---KVO 网络变化为［不允许使用WWAN］
+2017/12/29 00:59:59:686 [303] 💚💚[D:]---网络不能下载，准备保存任务状态，错误码：1
+2017/12/29 00:59:59:686 [303] 💚💚-[SVPDownloadManager(TaskManaging) saveActiveDownloadTaskStatesOptionErrCode:] (SVPDownloadManager+TaskManaging.m:162)
+2017/12/29 00:59:59:686 [303] 💚💚[D:]---根据错误保存当前正在下载的任务状态:begin
+2017/12/29 00:59:59:736 [303] [M9RequestRef 20] end sucess
+2017/12/29 01:00:00:493 [303] [M9RequestRef 13] end sucess
+2017/12/29 01:00:04:335 [303] 💙💙[M9RequestRef 21][GET] http://test.api.hd.sohu.com/v4/mobile/control/switch.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 01:00:04:340 [303] 💚💚[SVP:]---Reachability检测到网络变化：[1]
+2017/12/29 01:00:04:340 [303] 💚💚[D:]---网络状态变化：WiFi
+2017/12/29 01:00:04:340 [303] 💚💚[D:]---当前下载超时时长更新为：6s!
+2017/12/29 01:00:04:340 [303] 🔥🔥[U:]---KVO 网络变化为［WiFi］
+2017/12/29 01:00:04:341 [303] 🔥🔥[U:][S,N]
+2017/12/29 01:00:04:341 [303] 🔥🔥[U:] 停止上传－没有可执行或者可以重试的任务...
+2017/12/29 01:00:04:341 [303] 💚💚[SVP:]---Reachability检测到网络变化：[1]
+2017/12/29 01:00:04:341 [303] 💚💚[D:]---网络状态变化：WiFi
+2017/12/29 01:00:04:341 [303] 💚💚[D:]---当前下载超时时长更新为：6s!
+2017/12/29 01:00:04:341 [303] 💚💚[D:]---KVO 网络变化为［WiFi］
+2017/12/29 01:00:04:341 [303] 💚💚[D:]---准备重新开始下载
+2017/12/29 01:00:04:341 [303] 💚💚-[SVPDownloadManager(TaskManaging) restoreActiveDownloadTaskStates] (SVPDownloadManager+TaskManaging.m:259)
+2017/12/29 01:00:04:342 [303] 💚💚[D:]---没有可以恢复的任务，开始［下一个］任务！
+2017/12/29 01:00:04:342 [303] 💚💚[D:]--StartNextDownloadTask
+2017/12/29 01:00:04:342 [303] 💜💜[D:] 停止下载－没有可执行或者可以重试的任务...
+2017/12/29 01:00:04:390 [303] [M9RequestRef 21] end sucess
+2017/12/29 01:00:04:991 [303] 💜💜--com.56.mobile.video 2017-12-28 16-59.log
+2017/12/29 01:00:40:027 [303] [M9RequestRef 18] end failure]
+2017/12/29 01:00:45:517 [303] 💚💚[SHVideoPlayerVC] WillResignActionNotificaiton [haveSuper:0][airplay:0]
+2017/12/29 01:00:46:429 [303] 💚💚[SHVideoPlayerVC] DidEnterBackgroundNotification if need [haveSuper:0][airplay:0]
+2017/12/29 01:00:46:677 [303] 💚💚播放过程中音频被闹钟或电话铃打断 1
+2017/12/29 01:00:46:677 [303] 💚💚[SHVideoPlayerVC] [Interrupted] if need playbackState = 0
+2017/12/29 01:02:01:070 [303] 💙💙[M9RequestRef 22][GET] http://rc.app.tv.sohu.com/56app/p/wakeup?cv=5.9.5&memo=0&passport=&pro=31&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 01:02:01:098 [303] 💚💚-[SVPDownloadManager(Observer) applicationWillEnterForeground:] (SVPDownloadManager+Observer.m:104)-restoreActiveTasks
+2017/12/29 01:02:01:102 [303] 💚💚[SHVideoPlayerVC] WillEnterForegroundNotificaiton if need [haveSuper:0][airplay:0]
+2017/12/29 01:02:01:220 [303] 💚💚播放过程中音频被闹钟或电话铃打断 0
+2017/12/29 01:02:01:399 [303] 💚💚[SHVideoPlayerVC] DidBecomeActiveNotificaiton if need [haveSuper:0][airplay:0]
+2017/12/29 01:02:01:480 [303] [M9RequestRef 22] end sucess
+2017/12/29 01:02:02:966 [303] 💙💙[M9RequestRef 23][GET] http://api.tv.sohu.com/v4/mobile/plugin/list.json?api_key=af941ab19aef37c1cb224c601049e1e0&poid=1&plat=25&sver=5.0&partner=10
+2017/12/29 01:02:03:123 [303] [M9RequestRef 23] end sucess
+2017/12/29 01:02:11:040 [303] 💜💜--tmp
+2017/12/29 01:02:11:040 [303] 💜💜--SystemData
+2017/12/29 01:02:11:040 [303] 💜💜--Library
+2017/12/29 01:02:11:041 [303] 💜💜--Documents
+2017/12/29 01:02:11:041 [303] 💜💜--.com.apple.mobile_container_manager.metadata.plist
+2017/12/29 01:02:15:435 [303] 💙💙[M9RequestRef 24][GET] http://api.tv.sohu.com/v4/mobile/plugin/list.json?api_key=af941ab19aef37c1cb224c601049e1e0&poid=1&plat=25&sver=5.0&partner=10
+2017/12/29 01:02:15:477 [303] [M9RequestRef 24] end sucess
+2017/12/29 01:02:19:183 [303] 💙💙[M9RequestRef 25][GET] http://api.tv.sohu.com/v4/mobile/plugin/list.json?api_key=af941ab19aef37c1cb224c601049e1e0&poid=1&plat=25&sver=5.0&partner=10
+2017/12/29 01:02:19:233 [303] [M9RequestRef 25] end sucess
+2017/12/29 01:02:20:144 [303] 💜💜--tmp
+2017/12/29 01:02:20:144 [303] 💜💜--SystemData
+2017/12/29 01:02:20:144 [303] 💜💜--Library
+2017/12/29 01:02:20:144 [303] 💜💜--Documents
+2017/12/29 01:02:20:144 [303] 💜💜--.com.apple.mobile_container_manager.metadata.plist
+2017/12/29 01:02:21:797 [303] 💜💜--UserInfo
+2017/12/29 01:02:21:797 [303] 💜💜--UserCollectionInfo
+2017/12/29 01:02:21:797 [303] 💜💜--SVChannels-0.plist
+2017/12/29 01:02:21:797 [303] 💜💜--PrivateDocuments
+2017/12/29 01:02:21:797 [303] 💜💜--Preferences
+2017/12/29 01:02:21:797 [303] 💜💜--Logs
+2017/12/29 01:02:21:797 [303] 💜💜--Caches
+2017/12/29 01:02:21:797 [303] 💜💜--Application Support
+2017/12/29 01:02:22:966 [303] 💜💜--com.56.mobile.video 2017-12-28 16-59.log
+2017/12/29 01:03:20:609 [303] 💚💚[SHVideoPlayerVC] WillResignActionNotificaiton [haveSuper:0][airplay:0]
+2017/12/29 01:03:21:495 [303] 💚💚[SHVideoPlayerVC] DidEnterBackgroundNotification if need [haveSuper:0][airplay:0]
+2017/12/29 01:27:28:515 [303] 💙💙[M9RequestRef 26][GET] http://rc.app.tv.sohu.com/56app/p/wakeup?cv=5.9.5&memo=0&passport=&pro=31&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 01:27:28:528 [303] 💚💚-[SVPDownloadManager(Observer) applicationWillEnterForeground:] (SVPDownloadManager+Observer.m:104)-restoreActiveTasks
+2017/12/29 01:27:28:533 [303] 💚💚[SHVideoPlayerVC] WillEnterForegroundNotificaiton if need [haveSuper:0][airplay:0]
+2017/12/29 01:27:28:825 [303] 💚💚[SHVideoPlayerVC] DidBecomeActiveNotificaiton if need [haveSuper:0][airplay:0]
+2017/12/29 01:27:28:839 [303] [M9RequestRef 26] end sucess
+2017/12/29 01:27:35:388 [303] 💙💙[M9RequestRef 27][GET] http://api.tv.sohu.com/v4/mobile/plugin/list.json?api_key=af941ab19aef37c1cb224c601049e1e0&poid=1&plat=25&sver=5.0&partner=10
+2017/12/29 01:27:35:456 [303] [M9RequestRef 27] end sucess
+2017/12/29 01:27:38:464 [303] 💙💙[M9RequestRef 28][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0
+2017/12/29 01:27:38:529 [303] [M9RequestRef 28] end sucess
+2017/12/29 01:27:38:529 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 01:27:38:761 [303] 🔥🔥频道[首页]，下拉刷新channelid = 0
+2017/12/29 01:27:38:767 [303] 💙💙[M9RequestRef 29][GET] http://rc.app.tv.sohu.com/56app/p/home/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 01:27:39:197 [303] [M9RequestRef 29] end sucess
+2017/12/29 01:27:39:224 [303] 💙💙[M9RequestRef 30][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0%2C4368102%2C95871499%2C96106688%2C96257751%2C96069514%2C94205073%2C94926559%2C4408713%2C95245621%2C94258535%2C96088847%2C94981452
+2017/12/29 01:27:39:357 [303] [M9RequestRef 30] end sucess
+2017/12/29 01:27:39:358 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 01:27:39:358 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=4368102
+2017/12/29 01:27:39:358 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=0
+2017/12/29 01:27:39:358 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=4408713
+2017/12/29 01:27:41:528 [303] 💚💚[SHVideoPlayerVC] WillResignActionNotificaiton [haveSuper:0][airplay:0]
+2017/12/29 01:27:42:499 [303] 💚💚[SHVideoPlayerVC] DidEnterBackgroundNotification if need [haveSuper:0][airplay:0]
+2017/12/29 09:57:48:592 [303] 🔥🔥💚💚💚💚💚💚💚💚💚💚💚💚💚===全新启动分割线=======💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚
+2017/12/29 09:57:48:592 [303] 🔥🔥-[AppDelegate application:didFinishLaunchingWithOptions:] (AppDelegate.m:68) launchOptions = (null)
+2017/12/29 09:57:48:593 [303] 🔥🔥cachesPath /var/mobile/Containers/Data/Application/A304677E-1918-4186-9663-98EF00E17BB5/Library/Caches
+2017/12/29 09:57:48:757 [303] 💙💙[M9RequestRef 1][GET] http://test.api.hd.sohu.com/v4/mobile/control/switch.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 09:57:48:773 [303] 🔥🔥idfa = 0C443545-7ECF-4F33-874C-7A5F5E3817A5
+2017/12/29 09:57:48:780 [303] 💙💙[M9RequestRef 2][GET] http://test.api.hd.sohu.com/v4/chase/device/add.json?uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&pn=1&mfov=iPhone%206S&partner=1&os=1&gid=x010741001010d221c53f3852000f5a457c3446ad2f4&poid=31&token=7643fdd5d495c4ec992213ed3914ccdf97d29ca0223bb01effc2acf973430150&sys=ios&sysver=11.1.1&sver=5.9.5&mfo=Apple
+2017/12/29 09:57:48:801 [303] 💚💚[D:]---网络状态变化：WiFi
+2017/12/29 09:57:48:801 [303] 💚💚[D:]---当前下载超时时长更新为：6s!
+2017/12/29 09:57:48:807 [303] 💚💚-[SVPDownloadManager(TaskManaging) saveActiveDownloadTaskStatesOptionErrCode:] (SVPDownloadManager+TaskManaging.m:162)
+2017/12/29 09:57:48:807 [303] 💚💚[D:]---根据错误保存当前正在下载的任务状态:begin
+2017/12/29 09:57:48:815 [303] 💚💚[D:]---网络状态变化：WiFi
+2017/12/29 09:57:48:815 [303] 💚💚[D:]---当前下载超时时长更新为：6s!
+2017/12/29 09:57:48:891 [303] 🔥🔥launchOptions = (null) applicationWakeUpMode=0 sourceApplication=(null)
+2017/12/29 09:57:49:956 [1103] 💜💜[SH_MobileUgcode_Init] result:0
+2017/12/29 09:57:51:295 [303] 💜💜[[SVShare sharedInstance] initialize]
+2017/12/29 09:57:51:301 [303] 💙💙[M9RequestRef 3][GET] http://test.api.hd.sohu.com/v4/mobile/albumdetail.json?poid=31&plat=3&api_key=0c79c28d69b5e0bbb982607d185e3dca&sver=5.9.5&partner=1&sysver=11.1.1&build=5.9.5.1&aid=96102932&cid=10029132&area_code=0&count=5&ad=0
+2017/12/29 09:57:51:304 [303] 💙💙[M9RequestRef 4][GET] http://test.api.hd.sohu.com/v4/mobile/albumdetail.json?poid=31&plat=3&api_key=0c79c28d69b5e0bbb982607d185e3dca&sver=5.9.5&partner=1&sysver=11.1.1&build=5.9.5.1&aid=44&cid=10029132&area_code=0&count=5&ad=0
+2017/12/29 09:57:51:308 [303] 💙💙[M9RequestRef 5][GET] http://rc.app.tv.sohu.com/56app/p/wakeup?cv=5.9.5&memo=0&passport=&pro=31&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 09:57:51:312 [303] 💙💙[M9RequestRef 6][POST] https://tst.passport.sohu.com/sapi/jf/code
+2017/12/29 09:57:51:663 [303] 🔥🔥applicationDidFinishLaunching:
+2017/12/29 09:57:51:663 [303] 💚💚-[SVPDownloadManager(Observer) applicationDidFinishLaunching:] (SVPDownloadManager+Observer.m:113)-restoreActiveTasks
+2017/12/29 09:57:51:664 [303] 💚💚-[SVPDownloadManager(TaskManaging) restoreActiveDownloadTaskStates] (SVPDownloadManager+TaskManaging.m:259)
+2017/12/29 09:57:51:664 [303] 💚💚[D:]---没有可以恢复的任务，开始［下一个］任务！
+2017/12/29 09:57:51:664 [303] 💚💚[D:]--StartNextDownloadTask
+2017/12/29 09:57:51:664 [303] 💜💜[D:] 停止下载－没有可执行或者可以重试的任务...
+2017/12/29 09:57:51:989 [303] 🔥🔥频道[首页]，首次进入频道仅仅使用旧数据 channelid = 0
+2017/12/29 09:57:51:992 [303] 💙💙[M9RequestRef 7][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/home/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 09:57:52:008 [303] 🔥🔥频道[资讯]，首次进入频道仅仅使用旧数据 channelid = 3
+2017/12/29 09:57:52:011 [303] 💙💙[M9RequestRef 8][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/channel/3/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 09:57:52:044 [303] 💚💚[tea_sys_player_get_video_view] isMainThread:1
+2017/12/29 09:57:52:060 [303] 💚💚[AVPlayer] [INIT] 0x1c00b0aa0
+2017/12/29 09:57:52:060 [303] 💚💚[PlayerEngine:0x1c4458570], [alloc AVPlayer:0x1c00b0aa0]
+2017/12/29 09:57:52:065 [303] 💚💚[SHVideoPlayer] [init:0x1c01a5e80]
+2017/12/29 09:57:52:065 [303] 💚💚[SHVideoPlayerVC] [init:0x10802ca00]
+2017/12/29 09:57:52:254 [303] 🔥🔥【启动图】开始显示，强行bring launchViewController.view ToFront
+2017/12/29 09:57:52:421 [303] 💚💚[SVP:]---检测到WWAN变化：[CTRadioAccessTechnologyLTE]
+2017/12/29 09:57:52:421 [303] [M9RequestRef 2] end sucess
+2017/12/29 09:57:52:422 [303] [M9RequestRef 1] end sucess
+2017/12/29 09:57:52:427 [303] 💚💚wirelessRoutesAvailableDidChange, notification:NSConcreteNotification 0x1c444a860 {name = MPVolumeViewWirelessRoutesAvailableDidChangeNotification; object = <MPVolumeView: 0x107569d30>Frame: (-50.000000, 50.000000, 50.000000, 50.000000)	tag:0}
+2017/12/29 09:57:52:428 [303] 💚💚[SVP:]---检测到WWAN变化：[CTRadioAccessTechnologyLTE]
+2017/12/29 09:57:52:430 [303] [M9RequestRef 4] end sucess
+2017/12/29 09:57:52:431 [303] [M9RequestRef 3] end sucess
+2017/12/29 09:57:52:435 [303] [M9RequestRef 5] end sucess
+2017/12/29 09:57:52:436 [303] [M9RequestRef 6] end sucess
+2017/12/29 09:57:52:437 [303] [M9RequestRef 7] [use_cache end]
+2017/12/29 09:57:52:446 [303] 🔥🔥channel filterUnlike if need
+2017/12/29 09:57:52:452 [303] 💙💙[M9RequestRef 9][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0%2C4368102%2C95871499%2C96106688%2C96257751%2C96069514%2C94205073%2C94926559%2C4408713%2C95245621%2C94258535%2C96088847%2C94981452
+2017/12/29 09:57:52:453 [303] [M9RequestRef 8] [use_cache end failure]
+2017/12/29 09:57:52:458 [303] 🔥🔥token -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] (AppDelegate.m:356) <7643fdd5d495c4ec992213ed3914ccdf97d29ca0223bb01effc2acf973430150>
+2017/12/29 09:57:52:465 [303] 💙💙[M9RequestRef 10][GET] http://test.api.hd.sohu.com/mobile_user/push/uploadtoken.json?passport=&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal&devicetoken=7643fdd5d495c4ec992213ed3914ccdf97d29ca0223bb01effc2acf973430150&devicekind=0&starttime=800&endtime=2200&denymsg=0&api_key=0c79c28d69b5e0bbb982607d185e3dca&poid=31&plat=3&sver=5.9.5&sysver=11.1.1&partner=1
+2017/12/29 09:57:52:539 [303] [M9RequestRef 10] end sucess
+2017/12/29 09:57:52:570 [303] 💙💙[M9RequestRef 11][GET] http://test.api.hd.sohu.com/mobile_user/device/clientconf.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&poid=31&plat=3&sver=5.9.5&sysver=11.1.1&partner=1
+2017/12/29 09:57:52:668 [303] 💚💚[SHVideoPlayerVC] DidBecomeActiveNotificaiton if need [haveSuper:0][airplay:0]
+2017/12/29 09:57:52:700 [303] [M9RequestRef 9] end sucess
+2017/12/29 09:57:52:706 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 09:57:52:708 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=4368102
+2017/12/29 09:57:52:710 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=4408713
+2017/12/29 09:57:52:794 [303] [M9RequestRef 11] end sucess
+2017/12/29 09:57:53:581 [303] 💙💙[M9RequestRef 12][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/channel/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/list?
+2017/12/29 09:57:53:594 [303] 💙💙[M9RequestRef 12][GET] http://rc.app.tv.sohu.com/56app/p/channel/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/list?
+2017/12/29 09:57:53:637 [303] [M9RequestRef 12] end sucess
+2017/12/29 09:57:53:679 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0196c00
+2017/12/29 09:57:53:679 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0196cd0
+2017/12/29 09:57:53:679 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0196e70
+2017/12/29 09:57:53:679 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0196f40
+2017/12/29 09:57:53:680 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0197830
+2017/12/29 09:57:53:680 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c01970e0
+2017/12/29 09:57:53:681 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c01971b0
+2017/12/29 09:57:53:681 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0195bc0
+2017/12/29 09:57:53:681 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0196170
+2017/12/29 09:57:53:682 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0195d60
+2017/12/29 09:57:53:683 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0195470
+2017/12/29 09:57:53:683 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0195540
+2017/12/29 09:57:53:683 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c01930b0
+2017/12/29 09:57:53:683 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0192070
+2017/12/29 09:57:53:684 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0191e00
+2017/12/29 09:57:53:684 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0191d30
+2017/12/29 09:57:53:684 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0192550
+2017/12/29 09:57:53:684 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0195610
+2017/12/29 09:57:53:684 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c01963e0
+2017/12/29 09:57:54:971 [303] 🔥🔥launchVCDismissNotification 启动图、新手引导、广告显示完成。频道开始刷新数据
+2017/12/29 09:57:54:972 [303] 🔥🔥启动必要事物执行完毕，开始执行push，action等延迟事物，如果有的话(0)
+2017/12/29 09:57:54:992 [303] 🔥🔥-[FSLaunchViewController dealloc] (FSLaunchViewController.m:53) 0x107563b30
+2017/12/29 09:57:56:051 [303] 🔥🔥频道[首页]，下拉刷新channelid = 0
+2017/12/29 09:57:56:055 [303] 💙💙[M9RequestRef 13][GET] http://rc.app.tv.sohu.com/56app/p/home/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 09:57:56:405 [303] [M9RequestRef 13] end sucess
+2017/12/29 09:57:56:417 [303] 💙💙[M9RequestRef 14][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0%2C92677799%2C94639351%2C96344620%2C96472667%2C96212679%2C96081369%2C93563494%2C96485762%2C95475979%2C96468621%2C94945148%2C4412258
+2017/12/29 09:57:56:758 [303] [M9RequestRef 14] end sucess
+2017/12/29 09:57:56:759 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 09:57:56:760 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=4412258
+2017/12/29 09:57:58:090 [10303] 💜💜gid jvcode 请求成功
+2017/12/29 09:58:10:047 [303] 💜💜初始化channeld--1000560000,,
+2017/12/29 09:58:10:132 [303] 🔥🔥viewWillAppearForPlayer
+2017/12/29 09:58:10:638 [303] 💙💙[M9RequestRef 15][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=&topic_source_id=bk94639351&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 09:58:10:645 [303] 💙💙[M9RequestRef 16][GET] http://test.api.hd.sohu.com/v4/video/info/94639351.json?site=2&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31&aid=9175610
+2017/12/29 09:58:10:731 [303] 💚💚-[UIView(VideoPlayer) showInlineVideoWithItem:playerType:userInfo:] (UIView+VideoPlayer.m:56) videoItem singleVid = 94639351
+2017/12/29 09:58:10:731 [303] 🔥🔥调用播放器 123456
+2017/12/29 09:58:10:732 [303] 💚💚[SHVideoPlayerVC] [Destroy:0] [Presented:0] [Superview:0] [playerType:0]
+2017/12/29 09:58:10:732 [303] 💚💚[SHVideoPlayerVC][videoPlayerDidDestory]
+2017/12/29 09:58:10:733 [303] 💚💚[SHVideoPlayer] [exitPlayer], reason:2，videoFinishedReason:0
+2017/12/29 09:58:10:734 [303] 💚💚[SHVideoPlayer] [Finish Reason]:2 0
+2017/12/29 09:58:10:737 [303] 🔥🔥[SHVideoPlayerVC] 将播放器添加到业务视图之上 view.frame = {{0, 0}, {375, 211}}
+2017/12/29 09:58:10:737 [303] 💚💚[SHVideoPlayerVC] 设置placeHolderview
+2017/12/29 09:58:10:738 [303] 💚💚[SHVideoPlayerVC] [int] UIViewController:(null), toView:<UIImageView: 0x1075f5770>Frame: (0.000000, 0.000000, 375.000000, 211.000000)	tag:0
+2017/12/29 09:58:10:738 [303] 💚💚SHVideoPlayerViewController addPlayerLoadingView
+2017/12/29 09:58:10:738 [303] 🔥🔥stopLoading
+2017/12/29 09:58:10:744 [303] 🔥🔥showLoading: 0
+2017/12/29 09:58:10:745 [303] 💚💚-[FSPlayerVideoManager loadPlayerItemWithVideoOrder] (FSPlayerVideoManager.m:57)
+2017/12/29 09:58:10:745 [303] 🔥🔥[SecondOpenManager] 有播放地址，直接使用。立即返回
+2017/12/29 09:58:10:745 [303] 💚💚******[SHPlayerVideoManager] playerVideoItemDidPrepared:0x10751eab0
+2017/12/29 09:58:10:745 [303] 💚💚[SHVideoPlayerVC]  VideoItem sucess 123456
+2017/12/29 09:58:10:786 [303] 💚💚[SHVideoPlayerVC][_preparedPlayVideo]
+2017/12/29 09:58:10:786 [303] 🔥🔥清晰度列表 [高清:1，标清:2 超清：21] (
+    21,
+    1,
+    2
+)
+2017/12/29 09:58:10:790 [303] 💚💚[SHVideoPlayer] [playVideoFromPlaybackTime] =-9999.000000 [stopPlay]
+2017/12/29 09:58:10:790 [303] 💚💚[SHVideoPlayer] [stopPlay]
+2017/12/29 09:58:10:793 [303] 💚💚[SHVideoPlayer] playBackWithVideoURL: if need
+2017/12/29 09:58:10:794 [303] 💚💚[SHVideoPlayer]--标记-- [server:1] [decoder:2] 
+【http://220.181.61.212/?u=1&new=/175/19/ax4BB1c0T8FKS8ITnjQl8I.mp4&key=OUBK7hABVyqcyilNu3pp1l0vj57KUwzp&uid=x010741001010d221c53f3852000f5a457c3446ad2f4&ca=3&pg=1&ugcode2=MTYrUtn-1C6LMgwP0etDTcI4lJZziQVbAkT0_Qnl1scfymbJTykgKElGkvN-tieMCIAtrwIwUxRLtj5e7qaEH5wTZWZXRFN3Sd4_&pt=3&ch=my&cv=5.9.5&vid=94639351&prod=56&plat=3&qd=1&cv=5.9.5&ugcode2=MCSMjExOWxUiAWcrQODfdJM_U_1SwWXWozCtBNQIFCUrQblIwzzZQCi4f4JmvEP2nxKu0t_rZu93rSBtLRIzaUB】
+2017/12/29 09:58:10:794 [303] 💚💚[SHVideoPlayer] [setContentURL], contentURL:http://220.181.61.212/?u=1&new=/175/19/ax4BB1c0T8FKS8ITnjQl8I.mp4&key=OUBK7hABVyqcyilNu3pp1l0vj57KUwzp&uid=x010741001010d221c53f3852000f5a457c3446ad2f4&ca=3&pg=1&ugcode2=MTYrUtn-1C6LMgwP0etDTcI4lJZziQVbAkT0_Qnl1scfymbJTykgKElGkvN-tieMCIAtrwIwUxRLtj5e7qaEH5wTZWZXRFN3Sd4_&pt=3&ch=my&cv=5.9.5&vid=94639351&prod=56&plat=3&qd=1&cv=5.9.5&ugcode2=MCSMjExOWxUiAWcrQODfdJM_U_1SwWXWozCtBNQIFCUrQblIwzzZQCi4f4JmvEP2nxKu0t_rZu93rSBtLRIzaUB, serviceType:2, playerPlayType:1
+2017/12/29 09:58:10:796 [303] 🔥🔥--PlayInfo--:{
+    kTeaMediaPlayerItemDecoderType = 2;
+    kTeaMediaPlayerItemDefType = 1;
+    kTeaMediaPlayerItemIsCaptionVideo = 0;
+    kTeaMediaPlayerItemOtherId = "";
+    kTeaMediaPlayerItemPath = "http://220.181.61.212/?u=1&new=/175/19/ax4BB1c0T8FKS8ITnjQl8I.mp4&key=OUBK7hABVyqcyilNu3pp1l0vj57KUwzp&uid=x010741001010d221c53f3852000f5a457c3446ad2f4&ca=3&pg=1&ugcode2=MTYrUtn-1C6LMgwP0etDTcI4lJZziQVbAkT0_Qnl1scfymbJTykgKElGkvN-tieMCIAtrwIwUxRLtj5e7qaEH5wTZWZXRFN3Sd4_&pt=3&ch=my&cv=5.9.5&vid=94639351&prod=56&plat=3&qd=1&cv=5.9.5&ugcode2=MCSMjExOWxUiAWcrQODfdJM_U_1SwWXWozCtBNQIFCUrQblIwzzZQCi4f4JmvEP2nxKu0t_rZu93rSBtLRIzaUB";
+    kTeaMediaPlayerItemServiceType = 2;
+    kTeaMediaPlayerItemSite = 2;
+    kTeaMediaPlayerItemVid = 94639351;
+}
+2017/12/29 09:58:10:797 [303] 💚💚[MoviePlayer] [Play] isPreparedToPlay = 0
+2017/12/29 09:58:10:801 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChanged:] playerBackStatus = 1
+2017/12/29 09:58:10:801 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChangCallBack], currentPlayerPlayState:0
+2017/12/29 09:58:10:804 [303] 💚💚[SHVideoPlayerVC] [updateVideoPlayerViewFrame] viewMode:87090, VideoViewFrame:{{0, 0}, {375, 211}} self frame={{0, 0}, {375, 211}}
+2017/12/29 09:58:10:804 [303] 💚💚[SHVideoPlayerVC] [_generateVideoPlayer] 创建播放器，并将视图添加到SHVideoPlayerView上
+2017/12/29 09:58:10:805 [303] 🔥🔥showLoading: 1
+2017/12/29 09:58:10:911 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChangCallBack], currentPlayerPlayState:1
+2017/12/29 09:58:10:915 [303] 💚💚[SHPlayerVideoManager] [post notification:SHPlayerVideoManagerVideoItemFinishedNotification] 放到下一个runloop执行
+2017/12/29 09:58:10:920 [303] [M9RequestRef 16] end sucess
+2017/12/29 09:58:10:920 [303] [M9RequestRef 15] end sucess
+2017/12/29 09:58:10:923 [303] 💚💚[SHVideoPlayerVC] [traitCollectionDidChange:]
+2017/12/29 09:58:10:924 [303] 💚💚[SHVideoPlayerVC] [updateVideoPlayerViewFrame] viewMode:87090, VideoViewFrame:{{0, 0}, {375, 211}} self frame={{0, 0}, {375, 211}}
+2017/12/29 09:58:10:986 [303] 💙💙[M9RequestRef 17][GET] [use_cache] http://test.api.hd.sohu.com/v4/album/info/9175610.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 09:58:10:993 [303] 💙💙[M9RequestRef 17][GET] http://test.api.hd.sohu.com/v4/album/info/9175610.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 09:58:11:051 [303] [M9RequestRef 17] end sucess
+2017/12/29 09:58:11:075 [303] 💙💙[M9RequestRef 18][GET] http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=300966536&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 09:58:11:373 [303] [M9RequestRef 18] end sucess
+2017/12/29 09:58:11:374 [303] 💜💜+[SVPGCSubscribeManager requestCheckPGCStudiosSubscribeStatusWithOwner:pgcStudioIDs:passport:token:success:failure:]_block_invoke (SVPGCSubscribeManager.m:125) - url: http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=300966536&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 09:58:11:378 [303] 💚💚[AVPlayer] [teaMediaPlayer update frame]
+2017/12/29 09:58:11:379 [303] 💚💚[SHVideoPlayerVC] [updateVideoPlayerViewFrame] viewMode:87090, VideoViewFrame:{{0, 0}, {375, 211}} self frame={{0, 0}, {375, 211}}
+2017/12/29 09:58:11:379 [303] 💚💚[MoviePlayer] [onPrepared] SystemPlayer getDuration:134.418000
+2017/12/29 09:58:11:379 [303] 💚💚-[SHVideoPlayerViewController(PlayerDelegate) playerDurationAvailable:] (SHVideoPlayerViewController+PlayerDelegate.m:70) [video length = 134.418000s]
+2017/12/29 09:58:11:380 [303] 💚💚[MoviePlayer][onBufferingOk] [_isPreparedToPlay:0] playbackState = 1
+2017/12/29 09:58:11:380 [303] 💚💚[SHVideoPlayerVC] currentPlayerPlayState:1, record:1 
+2017/12/29 09:58:11:380 [303] 💚💚[SHVideoPlayerVC] [play]
+2017/12/29 09:58:11:380 [303] 💚💚[SHVideoPlayerVC] [playOrResumeJudgement]
+2017/12/29 09:58:11:380 [303] 💚💚[SHVideoPlayerVC] [playOrResumeJudgement] frontResume = 1
+2017/12/29 09:58:11:380 [303] 💚💚[SHVideoPlayerVC] [playOrResumeJudgement] yes
+2017/12/29 09:58:11:381 [303] 💚💚[SHVideoPlayerVC] [play]开始播放 if need
+2017/12/29 09:58:11:392 [303] 💚💚[SHVideoPlayer] playerType:【硬解】【CDN】播放
+2017/12/29 09:58:11:392 [303] 💚💚[MoviePlayer] [Play] isPreparedToPlay = 1
+2017/12/29 09:58:11:394 [303] 🔥🔥showLoading: 1
+2017/12/29 09:58:11:395 [303] 💚💚[SHVideoPlayerVC] playerLoadStateDidChanged: if need
+2017/12/29 09:58:11:395 [303] 💚💚[SHVideoPlayerVC] playerLoadStateDidChanged: PKMovieLoadStatePlayable
+2017/12/29 09:58:11:396 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChangCallBack], currentPlayerPlayState:1
+2017/12/29 09:58:11:396 [303] 💚💚[MoviePlayer] [onBufferingOk] [pkMoviePlayerLoadStateDidChange]
+2017/12/29 09:58:11:396 [303] 💚💚[MoviePlayer] [Play] isPreparedToPlay = 1
+2017/12/29 09:58:11:432 [303] 💙💙[M9RequestRef 19][GET] http://rc.app.tv.sohu.com/56app/p/relate?cid=32&pageNum=1&page_size=10&aid=9175610&vid=94639351&site=2&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal&with_fee_video=2&keyword=&passport=&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 09:58:11:434 [303] 💙💙[M9RequestRef 20][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/94639351.shtml&topic_source_id=bk94639351&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 09:58:11:441 [303] -[FSNewVideoDetailViewController viewDidAppear:] (FSNewVideoDetailViewController.m:92)
+2017/12/29 09:58:11:495 [303] 💙💙[M9RequestRef 21][GET] http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=300966536&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 09:58:11:500 [303] 💙💙[M9RequestRef 22][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/94639351.shtml&topic_source_id=bk94639351&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 09:58:11:519 [303] [M9RequestRef 20] end sucess
+2017/12/29 09:58:11:572 [303] [M9RequestRef 22] end sucess
+2017/12/29 09:58:11:579 [303] [M9RequestRef 21] end sucess
+2017/12/29 09:58:11:582 [303] 💜💜+[SVPGCSubscribeManager requestCheckPGCStudiosSubscribeStatusWithOwner:pgcStudioIDs:passport:token:success:failure:]_block_invoke (SVPGCSubscribeManager.m:125) - url: http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=300966536&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 09:58:11:613 [303] [M9RequestRef 19] end sucess
+2017/12/29 09:58:11:669 [303] 💙💙[M9RequestRef 23][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=94515327%2C95273490%2C96080911%2C95350345%2C95273469%2C95645125%2C95811897%2C95686253%2C94272172%2C95675881%2C95542059%2C95416280%2C94049890%2C94970351%2C96460266%2C95492597%2C94935485%2C94895247%2C94868265%2C95252559
+2017/12/29 09:58:11:735 [303] 💙💙[M9RequestRef 24][GET] http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=300966536&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 09:58:11:740 [303] 💙💙[M9RequestRef 25][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/94639351.shtml&topic_source_id=bk94639351&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 09:58:11:783 [303] 💙💙[M9RequestRef 26][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/94515327.shtml&topic_source_id=bk94515327&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 09:58:11:790 [303] 💙💙[M9RequestRef 27][GET] http://test.api.hd.sohu.com/v4/video/info/94515327.json?site=2&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 09:58:11:851 [303] 💙💙[M9RequestRef 28][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/95273490.shtml&topic_source_id=bk95273490&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 09:58:11:853 [303] 💙💙[M9RequestRef 29][GET] http://test.api.hd.sohu.com/v4/video/info/95273490.json?site=2&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 09:58:11:894 [303] 🔥🔥stopLoading
+2017/12/29 09:58:11:894 [303] 💚💚[SHVideoPlayerVC] playerLoadStateDidChanged 开始播放后placeholderimage就不再使用了
+2017/12/29 09:58:11:896 [303] [M9RequestRef 24] end sucess
+2017/12/29 09:58:11:897 [303] 💜💜+[SVPGCSubscribeManager requestCheckPGCStudiosSubscribeStatusWithOwner:pgcStudioIDs:passport:token:success:failure:]_block_invoke (SVPGCSubscribeManager.m:125) - url: http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=300966536&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 09:58:11:901 [303] [M9RequestRef 25] end sucess
+2017/12/29 09:58:11:916 [303] [M9RequestRef 27] end sucess
+2017/12/29 09:58:11:917 [303] [M9RequestRef 26] end sucess
+2017/12/29 09:58:11:922 [303] [M9RequestRef 29] end sucess
+2017/12/29 09:58:11:933 [303] 💙💙[M9RequestRef 30][GET] [use_cache] http://test.api.hd.sohu.com/v4/album/info/9413709.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 09:58:11:935 [303] 💙💙[M9RequestRef 31][GET] [use_cache] http://test.api.hd.sohu.com/v4/album/info/9428999.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 09:58:11:939 [303] 💙💙[M9RequestRef 30][GET] http://test.api.hd.sohu.com/v4/album/info/9413709.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 09:58:11:943 [303] 💙💙[M9RequestRef 31][GET] http://test.api.hd.sohu.com/v4/album/info/9428999.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 09:58:11:982 [303] [M9RequestRef 30] end sucess
+2017/12/29 09:58:11:986 [303] [M9RequestRef 31] end sucess
+2017/12/29 09:58:12:011 [303] 💙💙[M9RequestRef 32][GET] http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=325282272&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 09:58:12:023 [303] [M9RequestRef 23] end sucess
+2017/12/29 09:58:12:047 [303] [M9RequestRef 28] end sucess
+2017/12/29 09:58:12:058 [303] [M9RequestRef 32] end sucess
+2017/12/29 09:58:12:059 [303] 💜💜+[SVPGCSubscribeManager requestCheckPGCStudiosSubscribeStatusWithOwner:pgcStudioIDs:passport:token:success:failure:]_block_invoke (SVPGCSubscribeManager.m:125) - url: http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=325282272&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 09:58:12:077 [303] 💙💙[M9RequestRef 33][GET] http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=326742539&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 09:58:12:133 [303] [M9RequestRef 33] end sucess
+2017/12/29 09:58:12:134 [303] 💜💜+[SVPGCSubscribeManager requestCheckPGCStudiosSubscribeStatusWithOwner:pgcStudioIDs:passport:token:success:failure:]_block_invoke (SVPGCSubscribeManager.m:125) - url: http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=326742539&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 09:58:14:070 [303] -[FSNewVideoDetailViewController viewWillDisappear:] (FSNewVideoDetailViewController.m:100)
+2017/12/29 09:58:14:101 [303] -[FSNewVideoDetailViewController viewDidDisappear:] (FSNewVideoDetailViewController.m:117)
+2017/12/29 09:58:14:101 [303] 💚💚 [SHVideoPlayerVC] [dismissPlayerViewControllerWithCompletion] 
+2017/12/29 09:58:14:101 [303] 💚💚[SHVideoPlayerVC] [Destroy:0] [Presented:1] [Superview:1] [playerType:262152]
+2017/12/29 09:58:14:102 [303] 💚💚[SHVideoPlayerVC][videoPlayerDidDestory]
+2017/12/29 09:58:14:103 [303] 💚💚[SHVideoPlayer] [exitPlayer], reason:2，videoFinishedReason:1002
+2017/12/29 09:58:14:103 [303] 💚💚[SHVideoPlayer] [Finish Reason]:2 1
+2017/12/29 09:58:14:103 [303] 💚💚[SHVideoPlayer] [SHVPVideoFinishedReasonExit] [stopPlay]
+2017/12/29 09:58:14:103 [303] 💚💚[SHVideoPlayer] [stopPlay]
+2017/12/29 09:58:14:103 [303] 💚💚[MoviePlayer] [Stop] 1
+2017/12/29 09:58:14:244 [303] 💚💚[MoviePlayer] [setContentURL], stop
+2017/12/29 09:58:14:244 [303] 🔥🔥stopLoading
+2017/12/29 09:58:14:245 [303] 💚💚[SHVideoPlayerVC] [PlayRecord][saveVideoPlayRecord:2.6] [finishedReason(0:0)
+2017/12/29 09:58:14:245 [303] 💚💚[SHVideoPlayerVC] [videoPlayerDidEnd] [stopPlay]
+2017/12/29 09:58:14:245 [303] 💚💚[SHVideoPlayer] [stopPlay]
+2017/12/29 09:58:14:260 [303] 🔥🔥-[FSPlayerVideoManager dealloc] (FSPlayerVideoManager.m:29)
+2017/12/29 09:58:14:316 [303] 🔥🔥-[FSNewVideoDetailViewController dealloc] (FSNewVideoDetailViewController.m:27) 0x10759be40
+2017/12/29 09:58:14:319 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c0655780
+2017/12/29 09:58:14:319 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465b990
+2017/12/29 09:58:14:319 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112240af0
+2017/12/29 09:58:14:319 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465b900
+2017/12/29 09:58:14:319 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x1075f4bc0
+2017/12/29 09:58:14:319 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465c8f0
+2017/12/29 09:58:14:319 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x1074f1800
+2017/12/29 09:58:14:320 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465bd50
+2017/12/29 09:58:14:320 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x1074531e0
+2017/12/29 09:58:14:320 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465b9c0
+2017/12/29 09:58:14:320 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x1122468f0
+2017/12/29 09:58:14:320 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465b8d0
+2017/12/29 09:58:14:320 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112246ee0
+2017/12/29 09:58:14:320 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465b780
+2017/12/29 09:58:14:321 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112247280
+2017/12/29 09:58:14:321 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465aeb0
+2017/12/29 09:58:14:321 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112246490
+2017/12/29 09:58:14:321 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4653cb0
+2017/12/29 09:58:14:321 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112247880
+2017/12/29 09:58:14:321 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465b720
+2017/12/29 09:58:14:321 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112247c20
+2017/12/29 09:58:14:322 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465c0e0
+2017/12/29 09:58:14:322 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112247fc0
+2017/12/29 09:58:14:322 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c46562f0
+2017/12/29 09:58:14:322 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112248360
+2017/12/29 09:58:14:322 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465b7e0
+2017/12/29 09:58:14:322 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112248700
+2017/12/29 09:58:14:323 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465b210
+2017/12/29 09:58:14:323 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112248aa0
+2017/12/29 09:58:14:323 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465cd70
+2017/12/29 09:58:14:323 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112248e40
+2017/12/29 09:58:14:323 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465a760
+2017/12/29 09:58:14:323 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x1122491e0
+2017/12/29 09:58:14:323 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465b870
+2017/12/29 09:58:14:323 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112249580
+2017/12/29 09:58:14:323 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465b840
+2017/12/29 09:58:14:323 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112249920
+2017/12/29 09:58:15:325 [303] Request Finished.
+2017/12/29 10:01:07:538 [303] 💜💜初始化channeld--1000560000,,
+2017/12/29 10:01:07:644 [303] 🔥🔥viewWillAppearForPlayer
+2017/12/29 10:01:07:684 [303] 💙💙[M9RequestRef 34][GET] http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=300966536&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:01:07:688 [303] 💙💙[M9RequestRef 35][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/94639351.shtml&topic_source_id=bk94639351&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 10:01:07:721 [303] 💚💚-[UIView(VideoPlayer) showInlineVideoWithItem:playerType:userInfo:] (UIView+VideoPlayer.m:56) videoItem singleVid = 94639351
+2017/12/29 10:01:07:721 [303] 🔥🔥调用播放器 123456
+2017/12/29 10:01:07:722 [303] 💚💚[SHVideoPlayerVC] [Destroy:0] [Presented:0] [Superview:0] [playerType:0]
+2017/12/29 10:01:07:722 [303] 💚💚[SHVideoPlayerVC][videoPlayerDidDestory]
+2017/12/29 10:01:07:723 [303] 💚💚[SHVideoPlayer] [exitPlayer], reason:2，videoFinishedReason:1000
+2017/12/29 10:01:07:723 [303] 💚💚[SHVideoPlayer] [Finish Reason]:2 0
+2017/12/29 10:01:07:725 [303] 🔥🔥[SHVideoPlayerVC] 将播放器添加到业务视图之上 view.frame = {{0, 0}, {375, 211}}
+2017/12/29 10:01:07:725 [303] 💚💚[SHVideoPlayerVC] 设置placeHolderview
+2017/12/29 10:01:07:726 [303] 💚💚[SHVideoPlayerVC] [int] UIViewController:(null), toView:<UIImageView: 0x113b041f0>Frame: (0.000000, 0.000000, 375.000000, 211.000000)	tag:0
+2017/12/29 10:01:07:726 [303] 💚💚SHVideoPlayerViewController addPlayerLoadingView
+2017/12/29 10:01:07:729 [303] 🔥🔥showLoading: 0
+2017/12/29 10:01:07:730 [303] 💚💚-[FSPlayerVideoManager loadPlayerItemWithVideoOrder] (FSPlayerVideoManager.m:57)
+2017/12/29 10:01:07:730 [303] 🔥🔥[SecondOpenManager] 有播放地址，直接使用。立即返回
+2017/12/29 10:01:07:731 [303] 💚💚******[SHPlayerVideoManager] playerVideoItemDidPrepared:0x10751eab0
+2017/12/29 10:01:07:732 [303] 💚💚[SHVideoPlayerVC]  VideoItem sucess 123456
+2017/12/29 10:01:07:737 [303] 💚💚[SHVideoPlayerVC][_preparedPlayVideo]
+2017/12/29 10:01:07:740 [303] 💚💚[SHVideoPlayer] [playVideoFromPlaybackTime] =-9999.000000 [stopPlay]
+2017/12/29 10:01:07:740 [303] 💚💚[SHVideoPlayer] [stopPlay]
+2017/12/29 10:01:07:742 [303] 💚💚[SHVideoPlayer] playBackWithVideoURL: if need
+2017/12/29 10:01:07:742 [303] 💚💚[SHVideoPlayer]--标记-- [server:1] [decoder:2] 
+【http://220.181.61.212/?u=1&new=/175/19/ax4BB1c0T8FKS8ITnjQl8I.mp4&key=OUBK7hABVyqcyilNu3pp1l0vj57KUwzp&uid=x010741001010d221c53f3852000f5a457c3446ad2f4&ca=3&pg=1&ugcode2=MTYrUtn-1C6LMgwP0etDTcI4lJZziQVbAkT0_Qnl1scfymbJTykgKElGkvN-tieMCIAtrwIwUxRLtj5e7qaEH5wTZWZXRFN3Sd4_&pt=3&ch=my&cv=5.9.5&vid=94639351&prod=56&plat=3&qd=1&cv=5.9.5&ugcode2=MCSMjAylxxsotGwjpFjCWw-OK_q6u85dWTQDku-Iq0S9kuzh7oTV8st-eWddXb7vfrfbYqjWtf1TuyUE8kwwJVe】
+2017/12/29 10:01:07:743 [303] 💚💚[SHVideoPlayer] [setContentURL], contentURL:http://220.181.61.212/?u=1&new=/175/19/ax4BB1c0T8FKS8ITnjQl8I.mp4&key=OUBK7hABVyqcyilNu3pp1l0vj57KUwzp&uid=x010741001010d221c53f3852000f5a457c3446ad2f4&ca=3&pg=1&ugcode2=MTYrUtn-1C6LMgwP0etDTcI4lJZziQVbAkT0_Qnl1scfymbJTykgKElGkvN-tieMCIAtrwIwUxRLtj5e7qaEH5wTZWZXRFN3Sd4_&pt=3&ch=my&cv=5.9.5&vid=94639351&prod=56&plat=3&qd=1&cv=5.9.5&ugcode2=MCSMjAylxxsotGwjpFjCWw-OK_q6u85dWTQDku-Iq0S9kuzh7oTV8st-eWddXb7vfrfbYqjWtf1TuyUE8kwwJVe, serviceType:2, playerPlayType:1
+2017/12/29 10:01:07:744 [303] 🔥🔥--PlayInfo--:{
+    kTeaMediaPlayerItemDecoderType = 2;
+    kTeaMediaPlayerItemDefType = 1;
+    kTeaMediaPlayerItemIsCaptionVideo = 0;
+    kTeaMediaPlayerItemOtherId = "";
+    kTeaMediaPlayerItemPath = "http://220.181.61.212/?u=1&new=/175/19/ax4BB1c0T8FKS8ITnjQl8I.mp4&key=OUBK7hABVyqcyilNu3pp1l0vj57KUwzp&uid=x010741001010d221c53f3852000f5a457c3446ad2f4&ca=3&pg=1&ugcode2=MTYrUtn-1C6LMgwP0etDTcI4lJZziQVbAkT0_Qnl1scfymbJTykgKElGkvN-tieMCIAtrwIwUxRLtj5e7qaEH5wTZWZXRFN3Sd4_&pt=3&ch=my&cv=5.9.5&vid=94639351&prod=56&plat=3&qd=1&cv=5.9.5&ugcode2=MCSMjAylxxsotGwjpFjCWw-OK_q6u85dWTQDku-Iq0S9kuzh7oTV8st-eWddXb7vfrfbYqjWtf1TuyUE8kwwJVe";
+    kTeaMediaPlayerItemServiceType = 2;
+    kTeaMediaPlayerItemSite = 2;
+    kTeaMediaPlayerItemVid = 94639351;
+}
+2017/12/29 10:01:07:746 [303] 💚💚[MoviePlayer] [Play] isPreparedToPlay = 0
+2017/12/29 10:01:07:750 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChanged:] playerBackStatus = 1
+2017/12/29 10:01:07:751 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChangCallBack], currentPlayerPlayState:0
+2017/12/29 10:01:07:825 [303] 💚💚[SHVideoPlayerVC] [updateVideoPlayerViewFrame] viewMode:87090, VideoViewFrame:{{0, 0}, {375, 211}} self frame={{0, 0}, {375, 211}}
+2017/12/29 10:01:07:825 [303] 💚💚[SHVideoPlayerVC] [_generateVideoPlayer] 创建播放器，并将视图添加到SHVideoPlayerView上
+2017/12/29 10:01:07:825 [303] 🔥🔥showLoading: 1
+2017/12/29 10:01:07:833 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChangCallBack], currentPlayerPlayState:1
+2017/12/29 10:01:07:836 [303] 💚💚[SHPlayerVideoManager] [post notification:SHPlayerVideoManagerVideoItemFinishedNotification] 放到下一个runloop执行
+2017/12/29 10:01:07:838 [303] [M9RequestRef 34] end sucess
+2017/12/29 10:01:07:839 [303] 💜💜+[SVPGCSubscribeManager requestCheckPGCStudiosSubscribeStatusWithOwner:pgcStudioIDs:passport:token:success:failure:]_block_invoke (SVPGCSubscribeManager.m:125) - url: http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=300966536&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:01:08:081 [303] [M9RequestRef 35] end sucess
+2017/12/29 10:01:08:227 [303] -[FSNewVideoDetailViewController viewDidAppear:] (FSNewVideoDetailViewController.m:92)
+2017/12/29 10:01:09:070 [303] 💚💚[AVPlayer] [teaMediaPlayer update frame]
+2017/12/29 10:01:09:071 [303] 💚💚[SHVideoPlayerVC] [updateVideoPlayerViewFrame] viewMode:87090, VideoViewFrame:{{0, 0}, {375, 211}} self frame={{0, 0}, {375, 211}}
+2017/12/29 10:01:09:071 [303] 💚💚[MoviePlayer] [onPrepared] SystemPlayer getDuration:134.418000
+2017/12/29 10:01:09:071 [303] 💚💚-[SHVideoPlayerViewController(PlayerDelegate) playerDurationAvailable:] (SHVideoPlayerViewController+PlayerDelegate.m:70) [video length = 134.418000s]
+2017/12/29 10:01:09:072 [303] 💚💚[MoviePlayer][onBufferingOk] [_isPreparedToPlay:0] playbackState = 1
+2017/12/29 10:01:09:072 [303] 💚💚[SHVideoPlayerVC] currentPlayerPlayState:1, record:1 
+2017/12/29 10:01:09:072 [303] 💚💚[SHVideoPlayerVC] [play]
+2017/12/29 10:01:09:072 [303] 💚💚[SHVideoPlayerVC] [playOrResumeJudgement]
+2017/12/29 10:01:09:072 [303] 💚💚[SHVideoPlayerVC] [playOrResumeJudgement] frontResume = 1
+2017/12/29 10:01:09:072 [303] 💚💚[SHVideoPlayerVC] [playOrResumeJudgement] yes
+2017/12/29 10:01:09:073 [303] 💚💚[SHVideoPlayerVC] [play]开始播放 if need
+2017/12/29 10:01:09:081 [303] 💚💚[SHVideoPlayer] playerType:【硬解】【CDN】播放
+2017/12/29 10:01:09:081 [303] 💚💚[MoviePlayer] [Play] isPreparedToPlay = 1
+2017/12/29 10:01:09:084 [303] 💙💙[M9RequestRef 36][GET] http://test.api.hd.sohu.com/v4/video/info/94639351.json?site=2&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31&aid=9175610
+2017/12/29 10:01:09:085 [303] 🔥🔥showLoading: 1
+2017/12/29 10:01:09:085 [303] 💚💚[SHVideoPlayerVC] playerLoadStateDidChanged: if need
+2017/12/29 10:01:09:085 [303] 💚💚[SHVideoPlayerVC] playerLoadStateDidChanged: PKMovieLoadStatePlayable
+2017/12/29 10:01:09:085 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChangCallBack], currentPlayerPlayState:1
+2017/12/29 10:01:09:086 [303] 💚💚[MoviePlayer] [onBufferingOk] [pkMoviePlayerLoadStateDidChange]
+2017/12/29 10:01:09:086 [303] 💚💚[MoviePlayer] [Play] isPreparedToPlay = 1
+2017/12/29 10:01:09:147 [303] [M9RequestRef 36] end sucess
+2017/12/29 10:01:09:151 [303] 💙💙[M9RequestRef 37][GET] [use_cache] http://test.api.hd.sohu.com/v4/album/info/9175610.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:01:09:154 [303] 💙💙[M9RequestRef 37][GET] http://test.api.hd.sohu.com/v4/album/info/9175610.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:01:09:209 [303] [M9RequestRef 37] end sucess
+2017/12/29 10:01:09:223 [303] 💙💙[M9RequestRef 38][GET] http://rc.app.tv.sohu.com/56app/p/relate?cid=32&pageNum=1&page_size=10&aid=9175610&vid=94639351&site=2&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal&with_fee_video=2&keyword=&passport=&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:01:09:227 [303] 💙💙[M9RequestRef 39][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/94639351.shtml&topic_source_id=bk94639351&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 10:01:09:234 [303] 💙💙[M9RequestRef 40][GET] http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=300966536&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:01:09:237 [303] 💙💙[M9RequestRef 41][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/94639351.shtml&topic_source_id=bk94639351&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 10:01:09:326 [303] [M9RequestRef 40] end sucess
+2017/12/29 10:01:09:326 [303] 💜💜+[SVPGCSubscribeManager requestCheckPGCStudiosSubscribeStatusWithOwner:pgcStudioIDs:passport:token:success:failure:]_block_invoke (SVPGCSubscribeManager.m:125) - url: http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=300966536&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:01:09:387 [303] 🔥🔥stopLoading
+2017/12/29 10:01:09:387 [303] 💚💚[SHVideoPlayerVC] playerLoadStateDidChanged 开始播放后placeholderimage就不再使用了
+2017/12/29 10:01:09:448 [303] [M9RequestRef 41] end sucess
+2017/12/29 10:01:09:449 [303] [M9RequestRef 39] end sucess
+2017/12/29 10:01:09:550 [303] [M9RequestRef 38] end sucess
+2017/12/29 10:01:09:559 [303] 💙💙[M9RequestRef 42][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=94515327%2C95273490%2C96080911%2C95350345%2C95273469%2C95645125%2C95811897%2C95686253%2C94272172%2C95675881%2C95542059%2C95416280%2C94049890%2C94970351%2C96460266%2C95492597%2C94935485%2C94895247%2C94868265%2C95252559
+2017/12/29 10:01:09:589 [303] 💙💙[M9RequestRef 43][GET] http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=300966536&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:01:09:591 [303] 💙💙[M9RequestRef 44][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/94639351.shtml&topic_source_id=bk94639351&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 10:01:09:618 [303] 💙💙[M9RequestRef 45][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/94515327.shtml&topic_source_id=bk94515327&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 10:01:09:621 [303] 💙💙[M9RequestRef 46][GET] http://test.api.hd.sohu.com/v4/video/info/94515327.json?site=2&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:01:09:659 [303] 💙💙[M9RequestRef 47][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/95273490.shtml&topic_source_id=bk95273490&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 10:01:09:661 [303] 💙💙[M9RequestRef 48][GET] http://test.api.hd.sohu.com/v4/video/info/95273490.json?site=2&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:01:09:696 [303] [M9RequestRef 43] end sucess
+2017/12/29 10:01:09:696 [303] 💜💜+[SVPGCSubscribeManager requestCheckPGCStudiosSubscribeStatusWithOwner:pgcStudioIDs:passport:token:success:failure:]_block_invoke (SVPGCSubscribeManager.m:125) - url: http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=300966536&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:01:09:714 [303] [M9RequestRef 48] end sucess
+2017/12/29 10:01:09:720 [303] [M9RequestRef 46] end sucess
+2017/12/29 10:01:09:725 [303] 💙💙[M9RequestRef 49][GET] [use_cache] http://test.api.hd.sohu.com/v4/album/info/9428999.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:01:09:728 [303] 💙💙[M9RequestRef 49][GET] http://test.api.hd.sohu.com/v4/album/info/9428999.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:01:09:739 [303] 💙💙[M9RequestRef 50][GET] [use_cache] http://test.api.hd.sohu.com/v4/album/info/9413709.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:01:09:741 [303] 💙💙[M9RequestRef 50][GET] http://test.api.hd.sohu.com/v4/album/info/9413709.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:01:09:799 [303] [M9RequestRef 49] end sucess
+2017/12/29 10:01:09:808 [303] [M9RequestRef 50] end sucess
+2017/12/29 10:01:09:824 [303] 💙💙[M9RequestRef 51][GET] http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=326742539&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:01:09:829 [303] 💙💙[M9RequestRef 52][GET] http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=325282272&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:01:09:865 [303] [M9RequestRef 51] end sucess
+2017/12/29 10:01:09:865 [303] 💜💜+[SVPGCSubscribeManager requestCheckPGCStudiosSubscribeStatusWithOwner:pgcStudioIDs:passport:token:success:failure:]_block_invoke (SVPGCSubscribeManager.m:125) - url: http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=326742539&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:01:09:873 [303] [M9RequestRef 52] end sucess
+2017/12/29 10:01:09:874 [303] 💜💜+[SVPGCSubscribeManager requestCheckPGCStudiosSubscribeStatusWithOwner:pgcStudioIDs:passport:token:success:failure:]_block_invoke (SVPGCSubscribeManager.m:125) - url: http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=325282272&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:01:10:110 [303] [M9RequestRef 42] end sucess
+2017/12/29 10:01:10:110 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:10:111 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:10:111 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:10:111 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:10:111 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:10:111 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:10:111 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:10:111 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:10:111 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:10:112 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:10:136 [303] [M9RequestRef 44] end sucess
+2017/12/29 10:01:10:233 [303] [M9RequestRef 45] end sucess
+2017/12/29 10:01:10:237 [303] [M9RequestRef 47] end sucess
+2017/12/29 10:01:27:930 [303] -[FSNewVideoDetailViewController viewWillDisappear:] (FSNewVideoDetailViewController.m:100)
+2017/12/29 10:01:27:959 [303] -[FSNewVideoDetailViewController viewDidDisappear:] (FSNewVideoDetailViewController.m:117)
+2017/12/29 10:01:27:959 [303] 💚💚 [SHVideoPlayerVC] [dismissPlayerViewControllerWithCompletion] 
+2017/12/29 10:01:27:959 [303] 💚💚[SHVideoPlayerVC] [Destroy:0] [Presented:1] [Superview:1] [playerType:262152]
+2017/12/29 10:01:27:960 [303] 💚💚[SHVideoPlayerVC][videoPlayerDidDestory]
+2017/12/29 10:01:27:960 [303] 💚💚[SHVideoPlayer] [exitPlayer], reason:2，videoFinishedReason:1002
+2017/12/29 10:01:27:960 [303] 💚💚[SHVideoPlayer] [Finish Reason]:2 1
+2017/12/29 10:01:27:960 [303] 💚💚[SHVideoPlayer] [SHVPVideoFinishedReasonExit] [stopPlay]
+2017/12/29 10:01:27:960 [303] 💚💚[SHVideoPlayer] [stopPlay]
+2017/12/29 10:01:27:960 [303] 💚💚[MoviePlayer] [Stop] 1
+2017/12/29 10:01:28:070 [303] 💚💚[MoviePlayer] [setContentURL], stop
+2017/12/29 10:01:28:070 [303] 🔥🔥stopLoading
+2017/12/29 10:01:28:070 [303] 💚💚[SHVideoPlayerVC] [PlayRecord][saveVideoPlayRecord:18.6] [finishedReason(0:0)
+2017/12/29 10:01:28:079 [303] 💚💚[SHVideoPlayerVC] [videoPlayerDidEnd] [stopPlay]
+2017/12/29 10:01:28:079 [303] 💚💚[SHVideoPlayer] [stopPlay]
+2017/12/29 10:01:28:092 [303] 🔥🔥-[FSPlayerVideoManager dealloc] (FSPlayerVideoManager.m:29)
+2017/12/29 10:01:28:107 [303] 🔥🔥-[FSNewVideoDetailViewController dealloc] (FSNewVideoDetailViewController.m:27) 0x10759be40
+2017/12/29 10:01:28:108 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c464d140
+2017/12/29 10:01:28:108 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4842a30
+2017/12/29 10:01:28:108 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b52190
+2017/12/29 10:01:28:109 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465ff50
+2017/12/29 10:01:28:109 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b51470
+2017/12/29 10:01:28:109 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c065a820
+2017/12/29 10:01:28:109 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b052f0
+2017/12/29 10:01:28:109 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c084cc90
+2017/12/29 10:01:28:110 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b57d80
+2017/12/29 10:01:28:110 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c084cd20
+2017/12/29 10:01:28:110 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b516f0
+2017/12/29 10:01:28:110 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c084cc30
+2017/12/29 10:01:28:110 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b34200
+2017/12/29 10:01:28:110 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c045e120
+2017/12/29 10:01:28:110 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x1074f1800
+2017/12/29 10:01:28:110 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465b540
+2017/12/29 10:01:28:111 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112217ee0
+2017/12/29 10:01:28:111 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465eea0
+2017/12/29 10:01:28:111 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112204e00
+2017/12/29 10:01:28:111 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c0643480
+2017/12/29 10:01:28:111 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b598e0
+2017/12/29 10:01:28:111 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c08435d0
+2017/12/29 10:01:28:111 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b05da0
+2017/12/29 10:01:28:112 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c465c020
+2017/12/29 10:01:28:112 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x107580a80
+2017/12/29 10:01:28:112 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c444f5a0
+2017/12/29 10:01:28:112 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112276290
+2017/12/29 10:01:28:112 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4840930
+2017/12/29 10:01:28:112 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112275690
+2017/12/29 10:01:28:112 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4840f90
+2017/12/29 10:01:28:113 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112275140
+2017/12/29 10:01:28:113 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c084cbd0
+2017/12/29 10:01:28:113 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x1074f1130
+2017/12/29 10:01:28:113 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c084b280
+2017/12/29 10:01:28:113 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x107437090
+2017/12/29 10:01:28:113 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c065ea50
+2017/12/29 10:01:28:114 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112274b70
+2017/12/29 10:01:28:365 [303] 💙💙[M9RequestRef 53][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/hot?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&channel_id=30000000&cursor=0&page_size=1&partner=1&plat=3&poid=31&size=20&sver=5.9.5&sysver=11.1.1
+2017/12/29 10:01:28:447 [303] [M9RequestRef 53] [use_cache end]
+2017/12/29 10:01:28:453 [303] 💙💙[M9RequestRef 54][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=94445171%2C96477411%2C96337723%2C96435098%2C96436062%2C96338551%2C96445133%2C83985845%2C96343077%2C96320688%2C96354615%2C96320447%2C96477580%2C93599260%2C96411140%2C96473431%2C96404009%2C96181463%2C96449872%2C96468250
+2017/12/29 10:01:28:609 [303] 💙💙[M9RequestRef 55][GET] http://rc.app.tv.sohu.com/56app/p/hot?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&channel_id=30000000&cursor=0&page_size=1&partner=1&plat=3&poid=31&size=20&sver=5.9.5&sysver=11.1.1
+2017/12/29 10:01:28:644 [303] Request Finished.
+2017/12/29 10:01:28:788 [303] [M9RequestRef 54] end sucess
+2017/12/29 10:01:28:790 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:790 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:790 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:791 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:791 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:791 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:791 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:792 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:792 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:792 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:792 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:792 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:792 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:792 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:792 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94970351
+2017/12/29 10:01:28:792 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96460266
+2017/12/29 10:01:28:793 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:793 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:793 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:793 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:793 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:793 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:793 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:793 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94970351
+2017/12/29 10:01:28:794 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96460266
+2017/12/29 10:01:28:795 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:795 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95645125
+2017/12/29 10:01:28:795 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95416280
+2017/12/29 10:01:28:795 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95492597
+2017/12/29 10:01:28:795 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:795 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:795 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:795 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:796 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:796 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:796 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:796 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:796 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:796 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:796 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:796 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:796 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:797 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:797 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:797 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:797 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:797 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:797 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:797 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:797 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:798 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:798 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:798 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:798 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:798 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:798 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:798 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:798 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94970351
+2017/12/29 10:01:28:798 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96460266
+2017/12/29 10:01:28:799 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:799 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:799 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:799 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:799 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:799 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:799 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:799 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94970351
+2017/12/29 10:01:28:800 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96460266
+2017/12/29 10:01:28:800 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:800 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:800 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:800 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:800 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:800 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:800 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:800 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94970351
+2017/12/29 10:01:28:800 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96460266
+2017/12/29 10:01:28:800 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:800 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95645125
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95416280
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95492597
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95350345
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95273469
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94868265
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:801 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94970351
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96460266
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95645125
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95416280
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95492597
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:802 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94970351
+2017/12/29 10:01:28:803 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96460266
+2017/12/29 10:01:28:803 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:803 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95645125
+2017/12/29 10:01:28:803 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95416280
+2017/12/29 10:01:28:803 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95492597
+2017/12/29 10:01:28:803 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:803 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:803 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:803 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:803 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:804 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:804 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:804 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:804 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:804 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:804 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:804 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:804 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:804 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:804 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:804 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94970351
+2017/12/29 10:01:28:804 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96460266
+2017/12/29 10:01:28:805 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:805 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95645125
+2017/12/29 10:01:28:805 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95416280
+2017/12/29 10:01:28:805 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:805 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:805 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:805 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:805 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:805 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:805 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:805 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94970351
+2017/12/29 10:01:28:805 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96460266
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95645125
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94970351
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96460266
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95645125
+2017/12/29 10:01:28:806 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95416280
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95492597
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:28:807 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94970351
+2017/12/29 10:01:28:808 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96460266
+2017/12/29 10:01:28:808 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:28:808 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95645125
+2017/12/29 10:01:28:808 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95416280
+2017/12/29 10:01:28:808 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95492597
+2017/12/29 10:01:28:808 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95350345
+2017/12/29 10:01:28:808 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95273469
+2017/12/29 10:01:28:808 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:28:808 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95542059
+2017/12/29 10:01:29:189 [303] [M9RequestRef 55] end sucess
+2017/12/29 10:01:29:200 [303] 💙💙[M9RequestRef 56][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=96489111%2C96491872%2C96479605%2C96408375%2C94445171%2C96477411%2C96337723%2C96435098%2C96436062%2C96338551%2C96445133%2C83985845%2C96343077%2C96320688%2C96354615%2C96320447%2C96477580%2C93599260%2C96411140%2C96473431
+2017/12/29 10:01:29:201 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x11227b610
+2017/12/29 10:01:29:202 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b50b50
+2017/12/29 10:01:29:202 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b4daf0
+2017/12/29 10:01:29:203 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b511d0
+2017/12/29 10:01:29:203 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b788d0
+2017/12/29 10:01:29:204 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x1074f1800
+2017/12/29 10:01:29:204 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b26050
+2017/12/29 10:01:29:205 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b944c0
+2017/12/29 10:01:29:205 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b94860
+2017/12/29 10:01:29:205 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b94c00
+2017/12/29 10:01:29:206 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b94fa0
+2017/12/29 10:01:29:206 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b95340
+2017/12/29 10:01:29:206 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b956e0
+2017/12/29 10:01:29:207 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b95a80
+2017/12/29 10:01:29:207 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b95e20
+2017/12/29 10:01:29:207 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b961c0
+2017/12/29 10:01:29:208 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x113b96560
+2017/12/29 10:01:29:209 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x11227c2f0
+2017/12/29 10:01:29:225 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x112275a10
+2017/12/29 10:01:29:243 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x107580a80
+2017/12/29 10:01:30:277 [303] [M9RequestRef 56] end sucess
+2017/12/29 10:01:30:279 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95273469
+2017/12/29 10:01:30:279 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96477411
+2017/12/29 10:01:30:279 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96181463
+2017/12/29 10:01:30:279 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96411140
+2017/12/29 10:01:30:279 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95811897
+2017/12/29 10:01:30:280 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96080911
+2017/12/29 10:01:30:280 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=93599260
+2017/12/29 10:01:30:280 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96320447
+2017/12/29 10:01:30:280 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96354615
+2017/12/29 10:01:30:280 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96338551
+2017/12/29 10:01:30:280 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:30:280 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96404009
+2017/12/29 10:01:30:281 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95252559
+2017/12/29 10:01:30:281 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96460266
+2017/12/29 10:01:30:281 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96343077
+2017/12/29 10:01:30:281 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96477580
+2017/12/29 10:01:30:281 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95686253
+2017/12/29 10:01:30:281 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94445171
+2017/12/29 10:01:30:281 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=83985845
+2017/12/29 10:01:30:281 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95492597
+2017/12/29 10:01:30:281 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95416280
+2017/12/29 10:01:30:281 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96445133
+2017/12/29 10:01:30:281 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94895247
+2017/12/29 10:01:30:282 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95645125
+2017/12/29 10:01:30:282 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95350345
+2017/12/29 10:01:30:282 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=94970351
+2017/12/29 10:01:30:282 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96468250
+2017/12/29 10:01:30:282 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=95675881
+2017/12/29 10:01:30:282 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96473431
+2017/12/29 10:01:30:282 [303] 🔥🔥[SecondOpenManager] videoItem被释放 vid=96435098
+2017/12/29 10:10:30:443 [303] 🔥🔥💚💚💚💚💚💚💚💚💚💚💚💚💚===全新启动分割线=======💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚
+2017/12/29 10:10:30:443 [303] 🔥🔥-[AppDelegate application:didFinishLaunchingWithOptions:] (AppDelegate.m:68) launchOptions = (null)
+2017/12/29 10:10:30:444 [303] 🔥🔥cachesPath /var/mobile/Containers/Data/Application/C0508BAB-0234-4BE7-B86C-2BD5D8C3CA84/Library/Caches
+2017/12/29 10:10:30:619 [303] 💙💙[M9RequestRef 1][GET] http://test.api.hd.sohu.com/v4/mobile/control/switch.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:10:30:632 [303] 🔥🔥idfa = 0C443545-7ECF-4F33-874C-7A5F5E3817A5
+2017/12/29 10:10:30:648 [303] 💙💙[M9RequestRef 2][GET] http://test.api.hd.sohu.com/v4/chase/device/add.json?uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&pn=1&mfov=iPhone%206S&partner=1&os=1&gid=x010741001010d221c53f3852000f5a457c3446ad2f4&poid=31&token=7643fdd5d495c4ec992213ed3914ccdf97d29ca0223bb01effc2acf973430150&sys=ios&sysver=11.1.1&sver=5.9.5&mfo=Apple
+2017/12/29 10:10:30:662 [303] 💚💚[D:]---网络状态变化：WiFi
+2017/12/29 10:10:30:662 [303] 💚💚[D:]---当前下载超时时长更新为：6s!
+2017/12/29 10:10:30:667 [303] 💚💚-[SVPDownloadManager(TaskManaging) saveActiveDownloadTaskStatesOptionErrCode:] (SVPDownloadManager+TaskManaging.m:162)
+2017/12/29 10:10:30:667 [303] 💚💚[D:]---根据错误保存当前正在下载的任务状态:begin
+2017/12/29 10:10:30:672 [303] 💚💚[D:]---网络状态变化：WiFi
+2017/12/29 10:10:30:672 [303] 💚💚[D:]---当前下载超时时长更新为：6s!
+2017/12/29 10:10:30:726 [303] 🔥🔥launchOptions = (null) applicationWakeUpMode=0 sourceApplication=(null)
+2017/12/29 10:10:31:938 [1c03] 💜💜[SH_MobileUgcode_Init] result:0
+2017/12/29 10:10:33:134 [303] 💜💜[[SVShare sharedInstance] initialize]
+2017/12/29 10:10:33:138 [303] 💙💙[M9RequestRef 3][GET] http://test.api.hd.sohu.com/v4/mobile/albumdetail.json?poid=31&plat=3&api_key=0c79c28d69b5e0bbb982607d185e3dca&sver=5.9.5&partner=1&sysver=11.1.1&build=5.9.5.1&aid=96102932&cid=10029132&area_code=0&count=5&ad=0
+2017/12/29 10:10:33:166 [303] 💙💙[M9RequestRef 4][GET] http://test.api.hd.sohu.com/v4/mobile/albumdetail.json?poid=31&plat=3&api_key=0c79c28d69b5e0bbb982607d185e3dca&sver=5.9.5&partner=1&sysver=11.1.1&build=5.9.5.1&aid=44&cid=10029132&area_code=0&count=5&ad=0
+2017/12/29 10:10:33:171 [303] 💙💙[M9RequestRef 5][GET] http://rc.app.tv.sohu.com/56app/p/wakeup?cv=5.9.5&memo=0&passport=&pro=31&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:10:33:175 [303] 💙💙[M9RequestRef 6][POST] https://tst.passport.sohu.com/sapi/jf/code
+2017/12/29 10:10:33:512 [303] 🔥🔥applicationDidFinishLaunching:
+2017/12/29 10:10:33:513 [303] 💚💚-[SVPDownloadManager(Observer) applicationDidFinishLaunching:] (SVPDownloadManager+Observer.m:113)-restoreActiveTasks
+2017/12/29 10:10:33:513 [303] 💚💚-[SVPDownloadManager(TaskManaging) restoreActiveDownloadTaskStates] (SVPDownloadManager+TaskManaging.m:259)
+2017/12/29 10:10:33:513 [303] 💚💚[D:]---没有可以恢复的任务，开始［下一个］任务！
+2017/12/29 10:10:33:513 [303] 💚💚[D:]--StartNextDownloadTask
+2017/12/29 10:10:33:513 [303] 💜💜[D:] 停止下载－没有可执行或者可以重试的任务...
+2017/12/29 10:10:33:813 [303] 🔥🔥频道[首页]，首次进入频道仅仅使用旧数据 channelid = 0
+2017/12/29 10:10:33:816 [303] 💙💙[M9RequestRef 7][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/home/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 10:10:33:830 [303] 🔥🔥频道[资讯]，首次进入频道仅仅使用旧数据 channelid = 3
+2017/12/29 10:10:33:832 [303] 💙💙[M9RequestRef 8][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/channel/3/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 10:10:33:862 [303] 💚💚[tea_sys_player_get_video_view] isMainThread:1
+2017/12/29 10:10:33:868 [303] 💚💚[AVPlayer] [INIT] 0x1c42a2c40
+2017/12/29 10:10:33:868 [303] 💚💚[PlayerEngine:0x1c445b450], [alloc AVPlayer:0x1c42a2c40]
+2017/12/29 10:10:33:872 [303] 💚💚[SHVideoPlayer] [init:0x1c01bbac0]
+2017/12/29 10:10:33:872 [303] 💚💚[SHVideoPlayerVC] [init:0x15417e800]
+2017/12/29 10:10:34:083 [303] 🔥🔥【启动图】开始显示，强行bring launchViewController.view ToFront
+2017/12/29 10:10:34:253 [303] 💚💚[SVP:]---检测到WWAN变化：[CTRadioAccessTechnologyLTE]
+2017/12/29 10:10:34:253 [303] [M9RequestRef 1] end sucess
+2017/12/29 10:10:34:253 [303] [M9RequestRef 2] end sucess
+2017/12/29 10:10:34:261 [303] 💚💚wirelessRoutesAvailableDidChange, notification:NSConcreteNotification 0x1c46594d0 {name = MPVolumeViewWirelessRoutesAvailableDidChangeNotification; object = <MPVolumeView: 0x153e6d810>Frame: (-50.000000, 50.000000, 50.000000, 50.000000)	tag:0}
+2017/12/29 10:10:34:262 [303] 💚💚[SVP:]---检测到WWAN变化：[CTRadioAccessTechnologyLTE]
+2017/12/29 10:10:34:265 [303] [M9RequestRef 4] end sucess
+2017/12/29 10:10:34:265 [303] [M9RequestRef 3] end sucess
+2017/12/29 10:10:34:270 [303] [M9RequestRef 5] end sucess
+2017/12/29 10:10:34:271 [303] [M9RequestRef 6] end sucess
+2017/12/29 10:10:34:272 [303] [M9RequestRef 7] [use_cache end]
+2017/12/29 10:10:34:282 [303] 🔥🔥channel filterUnlike if need
+2017/12/29 10:10:34:289 [303] 💙💙[M9RequestRef 9][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0%2C92677799%2C94639351%2C96344620%2C96472667%2C96212679%2C96081369%2C93563494%2C96485762%2C95475979%2C96468621%2C94945148%2C4412258
+2017/12/29 10:10:34:290 [303] [M9RequestRef 8] [use_cache end failure]
+2017/12/29 10:10:34:295 [303] 🔥🔥token -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] (AppDelegate.m:356) <7643fdd5d495c4ec992213ed3914ccdf97d29ca0223bb01effc2acf973430150>
+2017/12/29 10:10:34:303 [303] 💙💙[M9RequestRef 10][GET] http://test.api.hd.sohu.com/mobile_user/push/uploadtoken.json?passport=&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal&devicetoken=7643fdd5d495c4ec992213ed3914ccdf97d29ca0223bb01effc2acf973430150&devicekind=0&starttime=800&endtime=2200&denymsg=0&api_key=0c79c28d69b5e0bbb982607d185e3dca&poid=31&plat=3&sver=5.9.5&sysver=11.1.1&partner=1
+2017/12/29 10:10:34:415 [303] [M9RequestRef 10] end sucess
+2017/12/29 10:10:34:473 [303] 💙💙[M9RequestRef 11][GET] http://test.api.hd.sohu.com/mobile_user/device/clientconf.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&poid=31&plat=3&sver=5.9.5&sysver=11.1.1&partner=1
+2017/12/29 10:10:34:528 [303] 💚💚[SHVideoPlayerVC] DidBecomeActiveNotificaiton if need [haveSuper:0][airplay:0]
+2017/12/29 10:10:34:598 [303] [M9RequestRef 11] end sucess
+2017/12/29 10:10:35:075 [303] [M9RequestRef 9] end sucess
+2017/12/29 10:10:35:081 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 10:10:35:083 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=4412258
+2017/12/29 10:10:35:356 [303] 💙💙[M9RequestRef 12][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/channel/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/list?
+2017/12/29 10:10:35:367 [303] 💙💙[M9RequestRef 12][GET] http://rc.app.tv.sohu.com/56app/p/channel/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/list?
+2017/12/29 10:10:35:555 [303] [M9RequestRef 12] end sucess
+2017/12/29 10:10:35:584 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c03801a0
+2017/12/29 10:10:35:584 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c03805b0
+2017/12/29 10:10:35:584 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0380340
+2017/12/29 10:10:35:584 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c0380410
+2017/12/29 10:10:35:584 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019e9f0
+2017/12/29 10:10:35:584 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019ee00
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019ec60
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019e850
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019fca0
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019fb00
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019ed30
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019e780
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019e440
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019e370
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019f2e0
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019c150
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019d670
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019eed0
+2017/12/29 10:10:35:585 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c019efa0
+2017/12/29 10:10:36:709 [303] 🔥🔥launchVCDismissNotification 启动图、新手引导、广告显示完成。频道开始刷新数据
+2017/12/29 10:10:36:710 [303] 🔥🔥启动必要事物执行完毕，开始执行push，action等延迟事物，如果有的话(0)
+2017/12/29 10:10:36:773 [303] 🔥🔥-[FSLaunchViewController dealloc] (FSLaunchViewController.m:53) 0x153d68730
+2017/12/29 10:10:38:073 [303] 🔥🔥频道[首页]，下拉刷新channelid = 0
+2017/12/29 10:10:38:081 [303] 💙💙[M9RequestRef 13][GET] http://rc.app.tv.sohu.com/56app/p/home/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 10:10:39:588 [303] [M9RequestRef 13] end sucess
+2017/12/29 10:10:39:597 [303] 💙💙[M9RequestRef 14][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0%2C95273469%2C96144596%2C92891247%2C95538435%2C96180647%2C93533209%2C94853239%2C92477965%2C92387841%2C92378275%2C92588672%2C92641398
+2017/12/29 10:10:39:768 [d903] 💜💜gid jvcode 请求成功
+2017/12/29 10:10:39:861 [303] [M9RequestRef 14] end sucess
+2017/12/29 10:10:39:862 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 10:10:52:273 [303] 💙💙[M9RequestRef 15][GET] http://so.tv.sohu.com/wole/so?wd=Muse&p=1&o=0&all=0&s=20&time=1514513452268&code=672fe2236806d3b5e768fee41a8167af&passport=&poid=31&plat=3&api_key=0c79c28d69b5e0bbb982607d185e3dca&sver=5.9.5&partner=1&sysver=11.1.1&build=5.9.5.1
+2017/12/29 10:10:52:880 [303] [M9RequestRef 15] end sucess
+2017/12/29 10:10:52:904 [303] 💙💙[M9RequestRef 16][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=84776014%2C408750%2C90326134%2C1442821%2C84793644%2C85610373%2C801036%2C603260%2C950788%2C90298571%2C90708065%2C90690457%2C85123541%2C967718%2C90454378%2C90833121%2C2395593%2C1205963%2C363352%2C90663175
+2017/12/29 10:10:53:200 [303] [M9RequestRef 16] end sucess
+2017/12/29 10:10:53:201 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=1442821
+2017/12/29 10:10:53:201 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=603260
+2017/12/29 10:10:53:202 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=967718
+2017/12/29 10:10:53:202 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=2395593
+2017/12/29 10:10:54:281 [303] 💜💜初始化channeld--1000080005,,
+2017/12/29 10:10:54:404 [303] 🔥🔥viewWillAppearForPlayer
+2017/12/29 10:10:54:741 [303] 💙💙[M9RequestRef 17][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=&topic_source_id=408750&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 10:10:54:745 [303] 💙💙[M9RequestRef 18][GET] http://test.api.hd.sohu.com/v4/video/info/408750.json?site=1&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31&aid=1004836
+2017/12/29 10:10:54:773 [303] 💚💚-[UIView(VideoPlayer) showInlineVideoWithItem:playerType:userInfo:] (UIView+VideoPlayer.m:56) videoItem singleVid = 408750
+2017/12/29 10:10:54:774 [303] 🔥🔥调用播放器 123456
+2017/12/29 10:10:54:774 [303] 💚💚[SHVideoPlayerVC] [Destroy:0] [Presented:0] [Superview:0] [playerType:0]
+2017/12/29 10:10:54:774 [303] 💚💚[SHVideoPlayerVC][videoPlayerDidDestory]
+2017/12/29 10:10:54:775 [303] 💚💚[SHVideoPlayer] [exitPlayer], reason:2，videoFinishedReason:0
+2017/12/29 10:10:54:776 [303] 💚💚[SHVideoPlayer] [Finish Reason]:2 0
+2017/12/29 10:10:54:779 [303] 🔥🔥[SHVideoPlayerVC] 将播放器添加到业务视图之上 view.frame = {{0, 0}, {375, 211}}
+2017/12/29 10:10:54:780 [303] 💚💚[SHVideoPlayerVC] 设置placeHolderview
+2017/12/29 10:10:54:780 [303] 💚💚[SHVideoPlayerVC] [int] UIViewController:(null), toView:<UIImageView: 0x155f6b1f0>Frame: (0.000000, 0.000000, 375.000000, 211.000000)	tag:0
+2017/12/29 10:10:54:780 [303] 💚💚SHVideoPlayerViewController addPlayerLoadingView
+2017/12/29 10:10:54:780 [303] 🔥🔥stopLoading
+2017/12/29 10:10:54:783 [303] 🔥🔥showLoading: 0
+2017/12/29 10:10:54:783 [303] 💚💚-[FSPlayerVideoManager loadPlayerItemWithVideoOrder] (FSPlayerVideoManager.m:57)
+2017/12/29 10:10:54:783 [303] 🔥🔥[SecondOpenManager] 有播放地址，直接使用。立即返回
+2017/12/29 10:10:54:783 [303] 💚💚******[SHPlayerVideoManager] playerVideoItemDidPrepared:0x153de46a0
+2017/12/29 10:10:54:784 [303] 💚💚[SHVideoPlayerVC]  VideoItem sucess 123456
+2017/12/29 10:10:54:793 [303] 💚💚[SHVideoPlayerVC][_preparedPlayVideo]
+2017/12/29 10:10:54:794 [303] 🔥🔥清晰度列表 [高清:1，标清:2 超清：21] (
+    1
+)
+2017/12/29 10:10:54:794 [303] 💚💚[SHVideoPlayer] [playVideoFromPlaybackTime] =-9999.000000 [stopPlay]
+2017/12/29 10:10:54:794 [303] 💚💚[SHVideoPlayer] [stopPlay]
+2017/12/29 10:10:54:795 [303] 💚💚[SHVideoPlayer] playBackWithVideoURL: if need
+2017/12/29 10:10:54:795 [303] 💚💚[SHVideoPlayer]--标记-- [server:1] [decoder:2] 
+【http://220.181.61.213/?u=1&new=/194/127/4ZIG8t1RTdF42Opmhu1jk7.mp4&key=6S1DTfxFGsA3VR30tgfduKDY_-XBP0UW&uid=x010741001010d221c53f3852000f5a457c3446ad2f4&ca=3&pg=1&pt=3&ch=my&cv=5.9.5&vid=408750&prod=56&plat=3&qd=1&cv=5.9.5】
+2017/12/29 10:10:54:795 [303] 💚💚[SHVideoPlayer] [setContentURL], contentURL:http://220.181.61.213/?u=1&new=/194/127/4ZIG8t1RTdF42Opmhu1jk7.mp4&key=6S1DTfxFGsA3VR30tgfduKDY_-XBP0UW&uid=x010741001010d221c53f3852000f5a457c3446ad2f4&ca=3&pg=1&pt=3&ch=my&cv=5.9.5&vid=408750&prod=56&plat=3&qd=1&cv=5.9.5, serviceType:2, playerPlayType:1
+2017/12/29 10:10:54:796 [303] 🔥🔥--PlayInfo--:{
+    kTeaMediaPlayerItemDecoderType = 2;
+    kTeaMediaPlayerItemDefType = 1;
+    kTeaMediaPlayerItemIsCaptionVideo = 0;
+    kTeaMediaPlayerItemOtherId = "";
+    kTeaMediaPlayerItemPath = "http://220.181.61.213/?u=1&new=/194/127/4ZIG8t1RTdF42Opmhu1jk7.mp4&key=6S1DTfxFGsA3VR30tgfduKDY_-XBP0UW&uid=x010741001010d221c53f3852000f5a457c3446ad2f4&ca=3&pg=1&pt=3&ch=my&cv=5.9.5&vid=408750&prod=56&plat=3&qd=1&cv=5.9.5";
+    kTeaMediaPlayerItemServiceType = 2;
+    kTeaMediaPlayerItemSite = 1;
+    kTeaMediaPlayerItemVid = 408750;
+}
+2017/12/29 10:10:54:796 [303] 💚💚[MoviePlayer] [Play] isPreparedToPlay = 0
+2017/12/29 10:10:54:799 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChanged:] playerBackStatus = 1
+2017/12/29 10:10:54:799 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChangCallBack], currentPlayerPlayState:0
+2017/12/29 10:10:54:801 [303] 💚💚[SHVideoPlayerVC] [updateVideoPlayerViewFrame] viewMode:87090, VideoViewFrame:{{0, 0}, {375, 211}} self frame={{0, 0}, {375, 211}}
+2017/12/29 10:10:54:801 [303] 💚💚[SHVideoPlayerVC] [_generateVideoPlayer] 创建播放器，并将视图添加到SHVideoPlayerView上
+2017/12/29 10:10:54:802 [303] 🔥🔥showLoading: 1
+2017/12/29 10:10:54:894 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChangCallBack], currentPlayerPlayState:1
+2017/12/29 10:10:54:898 [303] 💚💚[SHPlayerVideoManager] [post notification:SHPlayerVideoManagerVideoItemFinishedNotification] 放到下一个runloop执行
+2017/12/29 10:10:54:901 [303] [M9RequestRef 18] end sucess
+2017/12/29 10:10:54:905 [303] 💚💚[SHVideoPlayerVC] [traitCollectionDidChange:]
+2017/12/29 10:10:54:905 [303] 💚💚[SHVideoPlayerVC] [updateVideoPlayerViewFrame] viewMode:87090, VideoViewFrame:{{0, 0}, {375, 211}} self frame={{0, 0}, {375, 211}}
+2017/12/29 10:10:54:954 [303] 💙💙[M9RequestRef 19][GET] [use_cache] http://test.api.hd.sohu.com/v4/album/info/1004836.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:10:54:959 [303] 💙💙[M9RequestRef 19][GET] http://test.api.hd.sohu.com/v4/album/info/1004836.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:10:54:984 [303] [M9RequestRef 19] end sucess
+2017/12/29 10:10:55:262 [303] [M9RequestRef 17] end sucess
+2017/12/29 10:10:55:275 [303] -[FSNewVideoDetailViewController viewDidAppear:] (FSNewVideoDetailViewController.m:92)
+2017/12/29 10:10:55:598 [303] 💚💚[AVPlayer] [teaMediaPlayer update frame]
+2017/12/29 10:10:55:599 [303] 💚💚[SHVideoPlayerVC] [updateVideoPlayerViewFrame] viewMode:87090, VideoViewFrame:{{0, 0}, {375, 211}} self frame={{0, 0}, {375, 211}}
+2017/12/29 10:10:55:599 [303] 💚💚[MoviePlayer] [onPrepared] SystemPlayer getDuration:22.133000
+2017/12/29 10:10:55:600 [303] 💚💚-[SHVideoPlayerViewController(PlayerDelegate) playerDurationAvailable:] (SHVideoPlayerViewController+PlayerDelegate.m:70) [video length = 22.133000s]
+2017/12/29 10:10:55:600 [303] 💚💚[MoviePlayer][onBufferingOk] [_isPreparedToPlay:0] playbackState = 1
+2017/12/29 10:10:55:600 [303] 💚💚[SHVideoPlayerVC] currentPlayerPlayState:1, record:1 
+2017/12/29 10:10:55:600 [303] 💚💚[SHVideoPlayerVC] [play]
+2017/12/29 10:10:55:600 [303] 💚💚[SHVideoPlayerVC] [playOrResumeJudgement]
+2017/12/29 10:10:55:600 [303] 💚💚[SHVideoPlayerVC] [playOrResumeJudgement] frontResume = 1
+2017/12/29 10:10:55:600 [303] 💚💚[SHVideoPlayerVC] [playOrResumeJudgement] yes
+2017/12/29 10:10:55:601 [303] 💚💚[SHVideoPlayerVC] [play]开始播放 if need
+2017/12/29 10:10:55:608 [303] 💚💚[SHVideoPlayer] playerType:【硬解】【CDN】播放
+2017/12/29 10:10:55:608 [303] 💚💚[MoviePlayer] [Play] isPreparedToPlay = 1
+2017/12/29 10:10:55:610 [303] 🔥🔥showLoading: 1
+2017/12/29 10:10:55:611 [303] 💚💚[SHVideoPlayerVC] playerLoadStateDidChanged: if need
+2017/12/29 10:10:55:611 [303] 💚💚[SHVideoPlayerVC] playerLoadStateDidChanged: PKMovieLoadStatePlayable
+2017/12/29 10:10:55:611 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChangCallBack], currentPlayerPlayState:1
+2017/12/29 10:10:55:611 [303] 💚💚[MoviePlayer] [onBufferingOk] [pkMoviePlayerLoadStateDidChange]
+2017/12/29 10:10:55:611 [303] 💚💚[MoviePlayer] [Play] isPreparedToPlay = 1
+2017/12/29 10:10:55:615 [303] 💙💙[M9RequestRef 20][GET] http://rc.app.tv.sohu.com/56app/p/relate?cid=24&pageNum=1&page_size=10&aid=1004836&vid=408750&site=1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal&with_fee_video=2&keyword=&passport=&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:10:55:617 [303] 💙💙[M9RequestRef 21][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/v408750.shtml&topic_source_id=408750&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 10:10:55:624 [303] 💙💙[M9RequestRef 22][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/v408750.shtml&topic_source_id=408750&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 10:10:55:913 [303] 🔥🔥stopLoading
+2017/12/29 10:10:55:913 [303] 💚💚[SHVideoPlayerVC] playerLoadStateDidChanged 开始播放后placeholderimage就不再使用了
+2017/12/29 10:10:55:952 [303] [M9RequestRef 20] end sucess
+2017/12/29 10:10:55:963 [303] 💙💙[M9RequestRef 23][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=96180671%2C96249072%2C4191918%2C96180695%2C93790707%2C95252300%2C93881785%2C96278632%2C4178184%2C93251377%2C93170010%2C96265511%2C94459616%2C94122582%2C93713905%2C95051055%2C93776597%2C93212400
+2017/12/29 10:10:56:001 [303] 💙💙[M9RequestRef 24][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/v408750.shtml&topic_source_id=408750&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 10:10:56:028 [303] 💙💙[M9RequestRef 25][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/96180671.shtml&topic_source_id=bk96180671&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 10:10:56:030 [303] 💙💙[M9RequestRef 26][GET] http://test.api.hd.sohu.com/v4/video/info/96180671.json?site=2&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:10:56:070 [303] 💙💙[M9RequestRef 27][GET] http://changyan.sohu.com/api/2/topic/load?client_id=cyqyBluaj&topic_url=http://m.tv.sohu.com/u/vw/96249072.shtml&topic_source_id=bk96249072&topic_category_id=0&page_size=20&hot_size=10&inside_floor=1&outside_floor=1
+2017/12/29 10:10:56:072 [303] 💙💙[M9RequestRef 28][GET] http://test.api.hd.sohu.com/v4/video/info/96249072.json?site=2&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:10:56:101 [303] [M9RequestRef 26] end sucess
+2017/12/29 10:10:56:111 [303] [M9RequestRef 28] end sucess
+2017/12/29 10:10:56:131 [303] [M9RequestRef 21] end sucess
+2017/12/29 10:10:56:147 [303] [M9RequestRef 22] end sucess
+2017/12/29 10:10:56:164 [303] 💙💙[M9RequestRef 29][GET] [use_cache] http://test.api.hd.sohu.com/v4/album/info/9405867.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:10:56:168 [303] 💙💙[M9RequestRef 29][GET] http://test.api.hd.sohu.com/v4/album/info/9405867.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:10:56:179 [303] 💙💙[M9RequestRef 30][GET] [use_cache] http://test.api.hd.sohu.com/v4/album/info/9401806.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:10:56:181 [303] 💙💙[M9RequestRef 30][GET] http://test.api.hd.sohu.com/v4/album/info/9401806.json?area_code=39&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:10:56:194 [303] [M9RequestRef 29] end sucess
+2017/12/29 10:10:56:211 [303] 💙💙[M9RequestRef 31][GET] http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=325577725&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:10:56:212 [303] [M9RequestRef 30] end sucess
+2017/12/29 10:10:56:228 [303] 💙💙[M9RequestRef 32][GET] http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=324761520&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:10:56:253 [303] [M9RequestRef 25] end sucess
+2017/12/29 10:10:56:258 [303] [M9RequestRef 27] end sucess
+2017/12/29 10:10:56:260 [303] [M9RequestRef 31] end sucess
+2017/12/29 10:10:56:261 [303] 💜💜+[SVPGCSubscribeManager requestCheckPGCStudiosSubscribeStatusWithOwner:pgcStudioIDs:passport:token:success:failure:]_block_invoke (SVPGCSubscribeManager.m:125) - url: http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=325577725&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:10:56:277 [303] [M9RequestRef 32] end sucess
+2017/12/29 10:10:56:277 [303] 💜💜+[SVPGCSubscribeManager requestCheckPGCStudiosSubscribeStatusWithOwner:pgcStudioIDs:passport:token:success:failure:]_block_invoke (SVPGCSubscribeManager.m:125) - url: http://test.api.hd.sohu.com/v4/pgc/attention/is_attention.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&partner=1&pgcStudioIds=324761520&plat=3&poid=31&sver=5.9.5&sysver=11.1.1&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:10:56:393 [303] [M9RequestRef 23] end sucess
+2017/12/29 10:10:56:394 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=4191918
+2017/12/29 10:10:56:394 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=4178184
+2017/12/29 10:10:56:406 [303] [M9RequestRef 24] end sucess
+2017/12/29 10:11:00:463 [303] -[FSNewVideoDetailViewController viewWillDisappear:] (FSNewVideoDetailViewController.m:100)
+2017/12/29 10:11:00:495 [303] -[FSNewVideoDetailViewController viewDidDisappear:] (FSNewVideoDetailViewController.m:117)
+2017/12/29 10:11:00:495 [303] 💚💚[SHVideoPlayerVC] [Interrupted] if need playbackState = 1
+2017/12/29 10:11:00:495 [303] 💚💚[SHVideoPlayerVC] [Interrupted] ok
+2017/12/29 10:11:00:495 [303] 💚💚[MoviePlayer] [Interrupted] isPreparedToPlay:1
+2017/12/29 10:11:00:495 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChanged:] playerBackStatus = 3
+2017/12/29 10:11:00:495 [303] 💚💚[SHVideoPlayerVC] [playerPlaybackStateDidChangCallBack], currentPlayerPlayState:3
+2017/12/29 10:11:00:566 [303] 💜💜[LongVideoDetailVC 0x15783a750] [dismiss] [disappear]
+2017/12/29 10:11:00:566 [303] 💚💚 [SHVideoPlayerVC] [dismissPlayerViewControllerWithCompletion] 
+2017/12/29 10:11:00:566 [303] 💚💚[SHVideoPlayerVC] [Destroy:0] [Presented:1] [Superview:1] [playerType:262152]
+2017/12/29 10:11:00:567 [303] 💚💚[SHVideoPlayerVC][videoPlayerDidDestory]
+2017/12/29 10:11:00:568 [303] 💚💚[SHVideoPlayer] [exitPlayer], reason:2，videoFinishedReason:1002
+2017/12/29 10:11:00:568 [303] 💚💚[SHVideoPlayer] [Finish Reason]:2 3
+2017/12/29 10:11:00:568 [303] 💚💚[SHVideoPlayer] [SHVPVideoFinishedReasonExit] [stopPlay]
+2017/12/29 10:11:00:568 [303] 💚💚[SHVideoPlayer] [stopPlay]
+2017/12/29 10:11:00:568 [303] 💚💚[MoviePlayer] [Stop] 1
+2017/12/29 10:11:00:606 [303] 💚💚[MoviePlayer] [setContentURL], stop
+2017/12/29 10:11:00:606 [303] 🔥🔥stopLoading
+2017/12/29 10:11:00:607 [303] 💚💚[SHVideoPlayerVC] [PlayRecord][saveVideoPlayRecord:0.0] [finishedReason(0:0)
+2017/12/29 10:11:00:607 [303] 💚💚[SHVideoPlayerVC] [videoPlayerDidEnd] [stopPlay]
+2017/12/29 10:11:00:607 [303] 💚💚[SHVideoPlayer] [stopPlay]
+2017/12/29 10:11:00:623 [303] 🔥🔥-[FSPlayerVideoManager dealloc] (FSPlayerVideoManager.m:29)
+2017/12/29 10:11:00:633 [303] 🔥🔥-[FSNewVideoDetailViewController dealloc] (FSNewVideoDetailViewController.m:27) 0x15783a750
+2017/12/29 10:11:00:634 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c08561a0
+2017/12/29 10:11:00:634 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c0a44890
+2017/12/29 10:11:00:634 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x15787d6f0
+2017/12/29 10:11:00:635 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c0a416b0
+2017/12/29 10:11:00:635 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x15788d2a0
+2017/12/29 10:11:00:635 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c0a448c0
+2017/12/29 10:11:00:635 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x15788c6b0
+2017/12/29 10:11:00:635 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c0a44950
+2017/12/29 10:11:00:635 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x157887940
+2017/12/29 10:11:00:636 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c485c7d0
+2017/12/29 10:11:00:636 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x153d897a0
+2017/12/29 10:11:00:636 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4a483d0
+2017/12/29 10:11:00:636 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x153e3a050
+2017/12/29 10:11:00:636 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c0a45310
+2017/12/29 10:11:00:636 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x155f81f00
+2017/12/29 10:11:00:636 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c0a45580
+2017/12/29 10:11:00:636 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x153e9d100
+2017/12/29 10:11:00:636 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4a4f750
+2017/12/29 10:11:00:637 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x15787d1b0
+2017/12/29 10:11:00:637 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4a4f4e0
+2017/12/29 10:11:00:637 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x15787e990
+2017/12/29 10:11:00:637 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4a4f840
+2017/12/29 10:11:00:637 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x15787ac10
+2017/12/29 10:11:00:637 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4a4f720
+2017/12/29 10:11:00:637 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x15787af60
+2017/12/29 10:11:00:637 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4a4f870
+2017/12/29 10:11:00:637 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x15787a0a0
+2017/12/29 10:11:00:638 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4a4f6f0
+2017/12/29 10:11:00:638 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x1578931c0
+2017/12/29 10:11:00:638 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4a4f120
+2017/12/29 10:11:00:638 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x157893560
+2017/12/29 10:11:00:638 [303] 🔥🔥-[VideoDetailDataManager dealloc] (VideoDetailDataManager.m:314) 0x1c4a4e9a0
+2017/12/29 10:11:00:638 [303] 🔥🔥-[VideoAlbum dealloc] (VideoAlbum.m:70) 0x157893900
+2017/12/29 10:11:00:756 [303] Request Finished.
+2017/12/29 10:11:01:362 [303] 💜💜搜索dealloc
+2017/12/29 10:11:01:362 [303] 💜💜内存释放
+2017/12/29 10:15:19:459 [303] 💚💚[SHVideoPlayerVC] WillResignActionNotificaiton [haveSuper:0][airplay:0]
+2017/12/29 10:15:20:426 [303] 💚💚[SHVideoPlayerVC] DidEnterBackgroundNotification if need [haveSuper:0][airplay:0]
+2017/12/29 10:15:21:688 [303] 💚💚播放过程中音频被闹钟或电话铃打断 1
+2017/12/29 10:15:21:688 [303] 💚💚[SHVideoPlayerVC] [Interrupted] if need playbackState = 0
+2017/12/29 10:58:30:115 [303] 💙💙[M9RequestRef 33][GET] http://rc.app.tv.sohu.com/56app/p/wakeup?cv=5.9.5&memo=0&passport=&pro=31&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:58:30:170 [303] 💚💚-[SVPDownloadManager(Observer) applicationWillEnterForeground:] (SVPDownloadManager+Observer.m:104)-restoreActiveTasks
+2017/12/29 10:58:30:183 [303] 💚💚[SHVideoPlayerVC] WillEnterForegroundNotificaiton if need [haveSuper:0][airplay:0]
+2017/12/29 10:58:30:324 [303] 💙💙[M9RequestRef 34][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=96144596%2C92891247%2C95538435
+2017/12/29 10:58:34:127 [303] 🔥🔥💚💚💚💚💚💚💚💚💚💚💚💚💚===全新启动分割线=======💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚
+2017/12/29 10:58:34:128 [303] 🔥🔥-[AppDelegate application:didFinishLaunchingWithOptions:] (AppDelegate.m:68) launchOptions = (null)
+2017/12/29 10:58:34:129 [303] 🔥🔥cachesPath /var/mobile/Containers/Data/Application/C0508BAB-0234-4BE7-B86C-2BD5D8C3CA84/Library/Caches
+2017/12/29 10:58:34:227 [303] 💙💙[M9RequestRef 1][GET] http://test.api.hd.sohu.com/v4/mobile/control/switch.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:58:34:239 [303] 🔥🔥idfa = 0C443545-7ECF-4F33-874C-7A5F5E3817A5
+2017/12/29 10:58:34:245 [303] 💙💙[M9RequestRef 2][GET] http://test.api.hd.sohu.com/v4/chase/device/add.json?uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&pn=1&mfov=iPhone%206S&partner=1&os=1&gid=x010741001010d221c53f3852000f5a457c3446ad2f4&poid=31&token=7643fdd5d495c4ec992213ed3914ccdf97d29ca0223bb01effc2acf973430150&sys=ios&sysver=11.1.1&sver=5.9.5&mfo=Apple
+2017/12/29 10:58:34:252 [303] 💚💚[D:]---网络状态变化：WiFi
+2017/12/29 10:58:34:253 [303] 💚💚[D:]---当前下载超时时长更新为：6s!
+2017/12/29 10:58:34:255 [303] 💚💚-[SVPDownloadManager(TaskManaging) saveActiveDownloadTaskStatesOptionErrCode:] (SVPDownloadManager+TaskManaging.m:162)
+2017/12/29 10:58:34:256 [303] 💚💚[D:]---根据错误保存当前正在下载的任务状态:begin
+2017/12/29 10:58:34:259 [303] 💚💚[D:]---网络状态变化：WiFi
+2017/12/29 10:58:34:259 [303] 💚💚[D:]---当前下载超时时长更新为：6s!
+2017/12/29 10:58:34:278 [303] 🔥🔥launchOptions = (null) applicationWakeUpMode=0 sourceApplication=(null)
+2017/12/29 10:58:35:051 [3903] 💜💜[SH_MobileUgcode_Init] result:0
+2017/12/29 10:58:36:604 [303] 💜💜[[SVShare sharedInstance] initialize]
+2017/12/29 10:58:36:610 [303] 💙💙[M9RequestRef 3][GET] http://test.api.hd.sohu.com/v4/mobile/albumdetail.json?poid=31&plat=3&api_key=0c79c28d69b5e0bbb982607d185e3dca&sver=5.9.5&partner=1&sysver=11.1.1&build=5.9.5.1&aid=96102932&cid=10029132&area_code=0&count=5&ad=0
+2017/12/29 10:58:36:614 [303] 💙💙[M9RequestRef 4][GET] http://test.api.hd.sohu.com/v4/mobile/albumdetail.json?poid=31&plat=3&api_key=0c79c28d69b5e0bbb982607d185e3dca&sver=5.9.5&partner=1&sysver=11.1.1&build=5.9.5.1&aid=44&cid=10029132&area_code=0&count=5&ad=0
+2017/12/29 10:58:36:618 [303] 💙💙[M9RequestRef 5][GET] http://rc.app.tv.sohu.com/56app/p/wakeup?cv=5.9.5&memo=0&passport=&pro=31&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:58:36:625 [303] 💙💙[M9RequestRef 6][POST] https://tst.passport.sohu.com/sapi/jf/code
+2017/12/29 10:58:36:706 [303] 🔥🔥applicationDidFinishLaunching:
+2017/12/29 10:58:36:706 [303] 💚💚-[SVPDownloadManager(Observer) applicationDidFinishLaunching:] (SVPDownloadManager+Observer.m:113)-restoreActiveTasks
+2017/12/29 10:58:36:706 [303] 💚💚-[SVPDownloadManager(TaskManaging) restoreActiveDownloadTaskStates] (SVPDownloadManager+TaskManaging.m:259)
+2017/12/29 10:58:36:707 [303] 💚💚[D:]---没有可以恢复的任务，开始［下一个］任务！
+2017/12/29 10:58:36:707 [303] 💚💚[D:]--StartNextDownloadTask
+2017/12/29 10:58:36:707 [303] 💜💜[D:] 停止下载－没有可执行或者可以重试的任务...
+2017/12/29 10:58:37:033 [303] 🔥🔥频道[首页]，首次进入频道仅仅使用旧数据 channelid = 0
+2017/12/29 10:58:37:035 [303] 💙💙[M9RequestRef 7][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/home/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 10:58:37:050 [303] 🔥🔥频道[资讯]，首次进入频道仅仅使用旧数据 channelid = 3
+2017/12/29 10:58:37:052 [303] 💙💙[M9RequestRef 8][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/channel/3/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 10:58:37:083 [303] 💚💚[tea_sys_player_get_video_view] isMainThread:1
+2017/12/29 10:58:37:104 [303] 💚💚[AVPlayer] [INIT] 0x1c02a9720
+2017/12/29 10:58:37:104 [303] 💚💚[PlayerEngine:0x1c425c890], [alloc AVPlayer:0x1c02a9720]
+2017/12/29 10:58:37:110 [303] 💚💚[SHVideoPlayer] [init:0x1c01b4120]
+2017/12/29 10:58:37:110 [303] 💚💚[SHVideoPlayerVC] [init:0x14e8de000]
+2017/12/29 10:58:37:281 [303] 🔥🔥【启动图】开始显示，强行bring launchViewController.view ToFront
+2017/12/29 10:58:37:359 [303] 💚💚[SVP:]---检测到WWAN变化：[CTRadioAccessTechnologyLTE]
+2017/12/29 10:58:37:359 [303] [M9RequestRef 1] end sucess
+2017/12/29 10:58:37:359 [303] [M9RequestRef 2] end sucess
+2017/12/29 10:58:37:424 [303] 💚💚wirelessRoutesAvailableDidChange, notification:NSConcreteNotification 0x1c0252150 {name = MPVolumeViewWirelessRoutesAvailableDidChangeNotification; object = <MPVolumeView: 0x14dd63c90>Frame: (-50.000000, 50.000000, 50.000000, 50.000000)	tag:0}
+2017/12/29 10:58:37:424 [303] 💚💚[SVP:]---检测到WWAN变化：[CTRadioAccessTechnologyLTE]
+2017/12/29 10:58:37:430 [303] [M9RequestRef 3] end sucess
+2017/12/29 10:58:37:431 [303] [M9RequestRef 4] end sucess
+2017/12/29 10:58:37:434 [303] [M9RequestRef 5] end sucess
+2017/12/29 10:58:37:434 [303] [M9RequestRef 7] [use_cache end]
+2017/12/29 10:58:37:443 [303] 🔥🔥channel filterUnlike if need
+2017/12/29 10:58:37:452 [303] 💙💙[M9RequestRef 9][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0%2C95273469%2C96144596%2C92891247%2C95538435%2C96180647%2C93533209%2C94853239%2C92477965%2C92387841%2C92378275%2C92588672%2C92641398
+2017/12/29 10:58:37:453 [303] [M9RequestRef 8] [use_cache end failure]
+2017/12/29 10:58:37:926 [303] 🔥🔥token -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] (AppDelegate.m:356) <7643fdd5d495c4ec992213ed3914ccdf97d29ca0223bb01effc2acf973430150>
+2017/12/29 10:58:37:937 [303] 💙💙[M9RequestRef 10][GET] http://test.api.hd.sohu.com/mobile_user/push/uploadtoken.json?passport=&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal&devicetoken=7643fdd5d495c4ec992213ed3914ccdf97d29ca0223bb01effc2acf973430150&devicekind=0&starttime=800&endtime=2200&denymsg=0&api_key=0c79c28d69b5e0bbb982607d185e3dca&poid=31&plat=3&sver=5.9.5&sysver=11.1.1&partner=1
+2017/12/29 10:58:37:984 [303] [M9RequestRef 9] end sucess
+2017/12/29 10:58:37:985 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 10:58:38:084 [303] [M9RequestRef 6] end sucess
+2017/12/29 10:58:38:268 [303] 💙💙[M9RequestRef 11][GET] http://test.api.hd.sohu.com/mobile_user/device/clientconf.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&poid=31&plat=3&sver=5.9.5&sysver=11.1.1&partner=1
+2017/12/29 10:58:38:295 [303] 💚💚[SHVideoPlayerVC] DidBecomeActiveNotificaiton if need [haveSuper:0][airplay:0]
+2017/12/29 10:58:38:310 [303] [M9RequestRef 10] end sucess
+2017/12/29 10:58:38:502 [303] [M9RequestRef 11] end sucess
+2017/12/29 10:58:38:559 [303] 💙💙[M9RequestRef 12][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/channel/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/list?
+2017/12/29 10:58:38:564 [303] 💙💙[M9RequestRef 12][GET] http://rc.app.tv.sohu.com/56app/p/channel/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/list?
+2017/12/29 10:58:38:840 [303] [M9RequestRef 12] end sucess
+2017/12/29 10:58:38:868 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c41905a0
+2017/12/29 10:58:38:868 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4191100
+2017/12/29 10:58:38:868 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4191510
+2017/12/29 10:58:38:868 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4190670
+2017/12/29 10:58:38:868 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4190400
+2017/12/29 10:58:38:868 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4190330
+2017/12/29 10:58:38:868 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c41900c0
+2017/12/29 10:58:38:868 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4190190
+2017/12/29 10:58:38:869 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418f970
+2017/12/29 10:58:38:869 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e790
+2017/12/29 10:58:38:869 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e930
+2017/12/29 10:58:38:869 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e5f0
+2017/12/29 10:58:38:869 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e450
+2017/12/29 10:58:38:869 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e110
+2017/12/29 10:58:38:869 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e520
+2017/12/29 10:58:38:869 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e2b0
+2017/12/29 10:58:38:869 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e040
+2017/12/29 10:58:38:869 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418ec70
+2017/12/29 10:58:38:869 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418df70
+2017/12/29 10:58:39:813 [303] 🔥🔥launchVCDismissNotification 启动图、新手引导、广告显示完成。频道开始刷新数据
+2017/12/29 10:58:39:813 [303] 🔥🔥启动必要事物执行完毕，开始执行push，action等延迟事物，如果有的话(0)
+2017/12/29 10:58:39:867 [303] 🔥🔥-[FSLaunchViewController dealloc] (FSLaunchViewController.m:53) 0x14de73520
+2017/12/29 10:58:40:896 [303] 🔥🔥频道[首页]，下拉刷新channelid = 0
+2017/12/29 10:58:40:901 [303] 💙💙[M9RequestRef 13][GET] http://rc.app.tv.sohu.com/56app/p/home/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 10:58:41:736 [303] [M9RequestRef 13] end sucess
+2017/12/29 10:58:41:753 [303] 💙💙[M9RequestRef 14][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0%2C93563494%2C92479903%2C95815968%2C92477965%2C95787484%2C96472607%2C95681298%2C92387988%2C92436827%2C96444773%2C92868513%2C96492269
+2017/12/29 10:58:41:924 [303] [M9RequestRef 14] end sucess
+2017/12/29 10:58:41:924 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 10:58:43:674 [10907] 💜💜gid jvcode 请求成功
+2017/12/29 10:58:59:168 [303] 💚💚[SHVideoPlayerVC] WillResignActionNotificaiton [haveSuper:0][airplay:0]
+2017/12/29 10:59:00:253 [303] 💚💚[SHVideoPlayerVC] DidEnterBackgroundNotification if need [haveSuper:0][airplay:0]
+2017/12/29 10:59:01:892 [303] 🔥🔥💚💚💚💚💚💚💚💚💚💚💚💚💚===全新启动分割线=======💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚
+2017/12/29 10:59:01:893 [303] 🔥🔥-[AppDelegate application:didFinishLaunchingWithOptions:] (AppDelegate.m:68) launchOptions = (null)
+2017/12/29 10:59:01:893 [303] 🔥🔥cachesPath /var/mobile/Containers/Data/Application/C0508BAB-0234-4BE7-B86C-2BD5D8C3CA84/Library/Caches
+2017/12/29 10:59:01:979 [303] 💙💙[M9RequestRef 1][GET] http://test.api.hd.sohu.com/v4/mobile/control/switch.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&partner=1&sver=5.9.5&poid=31
+2017/12/29 10:59:01:991 [303] 🔥🔥idfa = 0C443545-7ECF-4F33-874C-7A5F5E3817A5
+2017/12/29 10:59:01:997 [303] 💙💙[M9RequestRef 2][GET] http://test.api.hd.sohu.com/v4/chase/device/add.json?uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal&api_key=0c79c28d69b5e0bbb982607d185e3dca&plat=3&pn=1&mfov=iPhone%206S&partner=1&os=1&gid=x010741001010d221c53f3852000f5a457c3446ad2f4&poid=31&token=7643fdd5d495c4ec992213ed3914ccdf97d29ca0223bb01effc2acf973430150&sys=ios&sysver=11.1.1&sver=5.9.5&mfo=Apple
+2017/12/29 10:59:02:004 [303] 💚💚[D:]---网络状态变化：WiFi
+2017/12/29 10:59:02:004 [303] 💚💚[D:]---当前下载超时时长更新为：6s!
+2017/12/29 10:59:02:007 [303] 💚💚-[SVPDownloadManager(TaskManaging) saveActiveDownloadTaskStatesOptionErrCode:] (SVPDownloadManager+TaskManaging.m:162)
+2017/12/29 10:59:02:007 [303] 💚💚[D:]---根据错误保存当前正在下载的任务状态:begin
+2017/12/29 10:59:02:012 [303] 💚💚[D:]---网络状态变化：WiFi
+2017/12/29 10:59:02:012 [303] 💚💚[D:]---当前下载超时时长更新为：6s!
+2017/12/29 10:59:02:030 [303] 🔥🔥launchOptions = (null) applicationWakeUpMode=0 sourceApplication=(null)
+2017/12/29 10:59:02:778 [3e03] 💜💜[SH_MobileUgcode_Init] result:0
+2017/12/29 10:59:04:100 [303] 💜💜[[SVShare sharedInstance] initialize]
+2017/12/29 10:59:04:104 [303] 💙💙[M9RequestRef 3][GET] http://test.api.hd.sohu.com/v4/mobile/albumdetail.json?poid=31&plat=3&api_key=0c79c28d69b5e0bbb982607d185e3dca&sver=5.9.5&partner=1&sysver=11.1.1&build=5.9.5.1&aid=96102932&cid=10029132&area_code=0&count=5&ad=0
+2017/12/29 10:59:04:109 [303] 💙💙[M9RequestRef 4][GET] http://test.api.hd.sohu.com/v4/mobile/albumdetail.json?poid=31&plat=3&api_key=0c79c28d69b5e0bbb982607d185e3dca&sver=5.9.5&partner=1&sysver=11.1.1&build=5.9.5.1&aid=44&cid=10029132&area_code=0&count=5&ad=0
+2017/12/29 10:59:04:114 [303] 💙💙[M9RequestRef 5][GET] http://rc.app.tv.sohu.com/56app/p/wakeup?cv=5.9.5&memo=0&passport=&pro=31&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:59:04:117 [303] 💙💙[M9RequestRef 6][POST] https://tst.passport.sohu.com/sapi/jf/code
+2017/12/29 10:59:04:193 [303] 🔥🔥applicationDidFinishLaunching:
+2017/12/29 10:59:04:193 [303] 💚💚-[SVPDownloadManager(Observer) applicationDidFinishLaunching:] (SVPDownloadManager+Observer.m:113)-restoreActiveTasks
+2017/12/29 10:59:04:193 [303] 💚💚-[SVPDownloadManager(TaskManaging) restoreActiveDownloadTaskStates] (SVPDownloadManager+TaskManaging.m:259)
+2017/12/29 10:59:04:193 [303] 💚💚[D:]---没有可以恢复的任务，开始［下一个］任务！
+2017/12/29 10:59:04:193 [303] 💚💚[D:]--StartNextDownloadTask
+2017/12/29 10:59:04:193 [303] 💜💜[D:] 停止下载－没有可执行或者可以重试的任务...
+2017/12/29 10:59:04:469 [303] 🔥🔥频道[首页]，首次进入频道仅仅使用旧数据 channelid = 0
+2017/12/29 10:59:04:471 [303] 💙💙[M9RequestRef 7][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/home/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 10:59:04:483 [303] 🔥🔥频道[资讯]，首次进入频道仅仅使用旧数据 channelid = 3
+2017/12/29 10:59:04:485 [303] 💙💙[M9RequestRef 8][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/channel/3/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 10:59:04:495 [303] 💚💚[tea_sys_player_get_video_view] isMainThread:1
+2017/12/29 10:59:04:501 [303] 💚💚[AVPlayer] [INIT] 0x1c42a9480
+2017/12/29 10:59:04:501 [303] 💚💚[PlayerEngine:0x1c0440690], [alloc AVPlayer:0x1c42a9480]
+2017/12/29 10:59:04:504 [303] 💚💚[SHVideoPlayer] [init:0x1c01b4f20]
+2017/12/29 10:59:04:504 [303] 💚💚[SHVideoPlayerVC] [init:0x10b888a00]
+2017/12/29 10:59:04:671 [303] 🔥🔥【启动图】开始显示，强行bring launchViewController.view ToFront
+2017/12/29 10:59:04:743 [303] 💚💚[SVP:]---检测到WWAN变化：[CTRadioAccessTechnologyLTE]
+2017/12/29 10:59:04:743 [303] [M9RequestRef 1] end sucess
+2017/12/29 10:59:04:743 [303] [M9RequestRef 2] end sucess
+2017/12/29 10:59:04:747 [303] 💚💚wirelessRoutesAvailableDidChange, notification:NSConcreteNotification 0x1c0251df0 {name = MPVolumeViewWirelessRoutesAvailableDidChangeNotification; object = <MPVolumeView: 0x10ab79640>Frame: (-50.000000, 50.000000, 50.000000, 50.000000)	tag:0}
+2017/12/29 10:59:04:747 [303] 💚💚[SVP:]---检测到WWAN变化：[CTRadioAccessTechnologyLTE]
+2017/12/29 10:59:04:750 [303] [M9RequestRef 4] end sucess
+2017/12/29 10:59:04:751 [303] [M9RequestRef 3] end sucess
+2017/12/29 10:59:04:751 [303] [M9RequestRef 5] end sucess
+2017/12/29 10:59:04:751 [303] [M9RequestRef 6] end sucess
+2017/12/29 10:59:04:751 [303] [M9RequestRef 7] [use_cache end]
+2017/12/29 10:59:04:757 [303] 🔥🔥channel filterUnlike if need
+2017/12/29 10:59:04:761 [303] 💙💙[M9RequestRef 9][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0%2C93563494%2C92479903%2C95815968%2C92477965%2C95787484%2C96472607%2C95681298%2C92387988%2C92436827%2C96444773%2C92868513%2C96492269
+2017/12/29 10:59:04:762 [303] [M9RequestRef 8] [use_cache end failure]
+2017/12/29 10:59:04:763 [303] 🔥🔥token -[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:] (AppDelegate.m:356) <7643fdd5d495c4ec992213ed3914ccdf97d29ca0223bb01effc2acf973430150>
+2017/12/29 10:59:04:768 [303] 💙💙[M9RequestRef 10][GET] http://test.api.hd.sohu.com/mobile_user/push/uploadtoken.json?passport=&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal&devicetoken=7643fdd5d495c4ec992213ed3914ccdf97d29ca0223bb01effc2acf973430150&devicekind=0&starttime=800&endtime=2200&denymsg=0&api_key=0c79c28d69b5e0bbb982607d185e3dca&poid=31&plat=3&sver=5.9.5&sysver=11.1.1&partner=1
+2017/12/29 10:59:04:871 [303] [M9RequestRef 10] end sucess
+2017/12/29 10:59:04:924 [303] [M9RequestRef 9] end sucess
+2017/12/29 10:59:04:926 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 10:59:05:036 [303] 💙💙[M9RequestRef 11][GET] http://test.api.hd.sohu.com/mobile_user/device/clientconf.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&poid=31&plat=3&sver=5.9.5&sysver=11.1.1&partner=1
+2017/12/29 10:59:05:064 [303] 💚💚[SHVideoPlayerVC] DidBecomeActiveNotificaiton if need [haveSuper:0][airplay:0]
+2017/12/29 10:59:05:079 [303] [M9RequestRef 11] end sucess
+2017/12/29 10:59:05:993 [303] 💙💙[M9RequestRef 12][GET] [use_cache] http://rc.app.tv.sohu.com/56app/p/channel/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/list?
+2017/12/29 10:59:05:999 [303] 💙💙[M9RequestRef 12][GET] http://rc.app.tv.sohu.com/56app/p/channel/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/list?
+2017/12/29 10:59:06:094 [303] [M9RequestRef 12] end sucess
+2017/12/29 10:59:06:121 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4191100
+2017/12/29 10:59:06:121 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4190670
+2017/12/29 10:59:06:121 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c41904d0
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c41909b0
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4190b50
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4190c20
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4190cf0
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4190f60
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418fd80
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c41905a0
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c4190190
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418fbe0
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418fcb0
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418f3c0
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e790
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e450
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e1e0
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e380
+2017/12/29 10:59:06:122 [303] 🔥🔥-[MVRSChannelItem dealloc] (MVRSChannelItem.m:14) 0x1c418e040
+2017/12/29 10:59:07:011 [303] 🔥🔥launchVCDismissNotification 启动图、新手引导、广告显示完成。频道开始刷新数据
+2017/12/29 10:59:07:011 [303] 🔥🔥启动必要事物执行完毕，开始执行push，action等延迟事物，如果有的话(0)
+2017/12/29 10:59:07:061 [303] 🔥🔥-[FSLaunchViewController dealloc] (FSLaunchViewController.m:53) 0x10ab71330
+2017/12/29 10:59:08:055 [303] 🔥🔥频道[首页]，下拉刷新channelid = 0
+2017/12/29 10:59:08:059 [303] 💙💙[M9RequestRef 13][GET] http://rc.app.tv.sohu.com/56app/p/home/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=0&partner=1&plat=3&poid=31&sver=5.9.5&up=1
+2017/12/29 10:59:09:117 [303] [M9RequestRef 13] end sucess
+2017/12/29 10:59:09:125 [303] 💙💙[M9RequestRef 14][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0%2C92611625%2C92936283%2C96470278%2C96081369%2C92549461%2C93894417%2C92768548%2C95681504%2C92654010%2C94717372%2C92378275%2C94632253
+2017/12/29 10:59:09:271 [303] [M9RequestRef 14] end sucess
+2017/12/29 10:59:09:271 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 10:59:10:311 [3e03] 💜💜gid jvcode 请求成功
+2017/12/29 10:59:18:586 [303] 🔥🔥频道[首页]，上拉加载更多channelid = 0
+2017/12/29 10:59:18:592 [303] 💙💙[M9RequestRef 15][GET] http://rc.app.tv.sohu.com/56app/p/home/229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal/rc/v1?api_key=0c79c28d69b5e0bbb982607d185e3dca&build=5.9.5.1&page=20&partner=1&plat=3&poid=31&sver=5.9.5&up=0
+2017/12/29 10:59:20:208 [303] [M9RequestRef 15] end sucess
+2017/12/29 10:59:20:224 [303] 💙💙[M9RequestRef 16][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=92588672%2C95845643%2C92387841%2C4374542%2C92424597%2C92604714%2C92641398%2C95840903%2C95105734%2C94485829%2C95809928%2C96131061
+2017/12/29 10:59:20:359 [303] [M9RequestRef 16] end sucess
+2017/12/29 10:59:20:360 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=4374542
+2017/12/29 10:59:32:616 [303] 💚💚[SHVideoPlayerVC] WillResignActionNotificaiton [haveSuper:0][airplay:0]
+2017/12/29 10:59:33:581 [303] 💚💚[SHVideoPlayerVC] DidEnterBackgroundNotification if need [haveSuper:0][airplay:0]
+2017/12/29 10:59:33:896 [303] 💚💚播放过程中音频被闹钟或电话铃打断 1
+2017/12/29 10:59:33:896 [303] 💚💚[SHVideoPlayerVC] [Interrupted] if need playbackState = 0
+2017/12/29 10:59:34:021 [303] 💙💙[M9RequestRef 17][GET] http://rc.app.tv.sohu.com/56app/p/wakeup?cv=5.9.5&memo=0&passport=&pro=31&uid=229F5E83-2067-47FA-9B00-7D3D4ACE6A67personal
+2017/12/29 10:59:34:038 [303] 💚💚-[SVPDownloadManager(Observer) applicationWillEnterForeground:] (SVPDownloadManager+Observer.m:104)-restoreActiveTasks
+2017/12/29 10:59:34:067 [303] 💚💚[SHVideoPlayerVC] WillEnterForegroundNotificaiton if need [haveSuper:0][airplay:0]
+2017/12/29 10:59:34:070 [303] 💙💙[M9RequestRef 18][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0
+2017/12/29 10:59:34:204 [303] 💚💚播放过程中音频被闹钟或电话铃打断 0
+2017/12/29 10:59:34:328 [303] 💙💙[M9RequestRef 19][GET] http://test.api.hd.sohu.com/mobile_user/device/clientconf.json?api_key=0c79c28d69b5e0bbb982607d185e3dca&poid=31&plat=3&sver=5.9.5&sysver=11.1.1&partner=1
+2017/12/29 10:59:34:337 [303] 💚💚[SHVideoPlayerVC] DidBecomeActiveNotificaiton if need [haveSuper:0][airplay:0]
+2017/12/29 10:59:34:363 [303] [M9RequestRef 18] end sucess
+2017/12/29 10:59:34:364 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 10:59:34:364 [303] [M9RequestRef 17] end sucess
+2017/12/29 10:59:34:565 [303] [M9RequestRef 19] end sucess
+2017/12/29 10:59:35:353 [303] 💙💙[M9RequestRef 20][GET] http://api.my.tv.sohu.com/v2/video/plays.do?_cn=56&_cp=Iphone&_cpv=11.1.1&_cv=5.9.5&_gid=x010741001010d221c53f3852000f5a457c3446ad2f4&_src=app&ids=0
+2017/12/29 10:59:35:509 [303] [M9RequestRef 20] end sucess
+2017/12/29 10:59:35:509 [303] 🔥🔥[SecondOpenManager] 批量请求中有失败的了 vid=0
+2017/12/29 10:59:37:540 [303] 💚💚[SHVideoPlayerVC] WillResignActionNotificaiton [haveSuper:0][airplay:0]
+2017/12/29 10:59:38:470 [303] 💚💚[SHVideoPlayerVC] DidEnterBackgroundNotification if need [haveSuper:0][airplay:0]
