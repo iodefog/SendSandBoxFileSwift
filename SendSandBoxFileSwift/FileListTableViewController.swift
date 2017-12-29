@@ -54,6 +54,8 @@ class FileListTableViewController: UITableViewController,MFMailComposeViewContro
             navigationBar.pushItem(navigationItem!, animated: false);
             headerView=navigationBar;
             self.view.addSubview(navigationBar);
+            
+            self.addNavBarLayoutConstraint(navigationBar: navigationBar);
         }
         
         if(self.title == nil){
@@ -371,5 +373,28 @@ class FileListTableViewController: UITableViewController,MFMailComposeViewContro
         return String.init(format: "%4.2f %@", numberOfBytes, tokens[multiplyFactor]);
     }
     
-    
+    // MARK: - 添加导航条约束
+    func addNavBarLayoutConstraint(navigationBar:UINavigationBar) {
+//        navigationBar.translatesAutoresizingMaskIntoConstraints = false;
+        let left = NSLayoutConstraint.init(item: navigationBar, attribute: NSLayoutAttribute.left, relatedBy: NSLayoutRelation.equal, toItem: self.view, attribute: NSLayoutAttribute.left, multiplier: 1.0, constant: 0);
+        navigationBar.superview?.addConstraint(left);
+        
+        var offSetTop:CGFloat = 0;
+        if self.navigationController == nil {
+            offSetTop = 20;
+        }
+        let top = NSLayoutConstraint.init(item: navigationBar, attribute: NSLayoutAttribute.top, relatedBy: NSLayoutRelation.equal, toItem: self.view, attribute: NSLayoutAttribute.top, multiplier: 1.0, constant: offSetTop);
+        navigationBar.superview?.addConstraint(top);
+        
+        let right = NSLayoutConstraint.init(item: navigationBar, attribute: NSLayoutAttribute.right, relatedBy: NSLayoutRelation.equal, toItem: self.view, attribute: NSLayoutAttribute.right, multiplier: 1.0, constant: 0);
+        navigationBar.superview?.addConstraint(right);
+        
+        var offSetY:CGFloat = 0;
+        if self.navigationController == nil {
+            offSetY = 64;
+        }
+        
+        let height = NSLayoutConstraint.init(item: navigationBar, attribute: NSLayoutAttribute.height, relatedBy: NSLayoutRelation.equal, toItem: self.view, attribute: NSLayoutAttribute.height, multiplier: 1.0, constant: offSetY);
+        navigationBar.superview?.addConstraint(height);
+    }
 }

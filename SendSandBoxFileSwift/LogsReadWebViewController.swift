@@ -25,6 +25,8 @@ class LogsReadWebViewController: UIViewController, UIWebViewDelegate {
             navigationItem?.leftBarButtonItem = UIBarButtonItem.init(title: "Back", style: UIBarButtonItemStyle.done, target: self, action: #selector(LogsReadWebViewController.back));
             navigationBar?.pushItem(navigationItem!, animated: true);
             self.view.addSubview(navigationBar!);
+            
+            self.addNavBarLayoutConstraint(navigationBar: navigationBar!);
         }
         else {
             navigationBar = self.navigationController?.navigationBar;
@@ -38,10 +40,59 @@ class LogsReadWebViewController: UIViewController, UIWebViewDelegate {
             // 只对link识别
             self.webView!.dataDetectorTypes = UIDataDetectorTypes.link;
             self.view.addSubview(self.webView!);
+            self.addWebViewLayoutConstraint();
+            
             self .resetData();
-//            self.webView?.scalesPageToFit = true;
+            self.webView?.scalesPageToFit = true;
         }
         self.createWebViewControl(navigationItem: navigationItem!);
+    }
+    
+    // MARK: - 添加导航条约束
+    func addNavBarLayoutConstraint(navigationBar:UINavigationBar) {
+//        navigationBar.translatesAutoresizingMaskIntoConstraints = false;
+        
+        let left = NSLayoutConstraint.init(item: navigationBar, attribute: NSLayoutAttribute.left, relatedBy: NSLayoutRelation.equal, toItem: self.view, attribute: NSLayoutAttribute.left, multiplier: 1.0, constant: 0);
+        navigationBar.superview?.addConstraint(left);
+        
+        var offSetTop:CGFloat = 0;
+        if self.navigationController == nil {
+            offSetTop = 20;
+        }
+        let top = NSLayoutConstraint.init(item: navigationBar, attribute: NSLayoutAttribute.top, relatedBy: NSLayoutRelation.equal, toItem: self.view, attribute: NSLayoutAttribute.top, multiplier: 1.0, constant: offSetTop);
+        navigationBar.superview?.addConstraint(top);
+        
+        let right = NSLayoutConstraint.init(item: navigationBar, attribute: NSLayoutAttribute.right, relatedBy: NSLayoutRelation.equal, toItem: self.view, attribute: NSLayoutAttribute.right, multiplier: 1.0, constant: 0);
+        navigationBar.superview?.addConstraint(right);
+        
+        var offSetY:CGFloat = 0;
+        if self.navigationController == nil {
+            offSetY = 64;
+        }
+
+        let height = NSLayoutConstraint.init(item: navigationBar, attribute: NSLayoutAttribute.height, relatedBy: NSLayoutRelation.equal, toItem: self.view, attribute: NSLayoutAttribute.height, multiplier: 1.0, constant: offSetY);
+        navigationBar.superview?.addConstraint(height);
+    }
+    
+    // MARK: - 添加WebView约束
+    func addWebViewLayoutConstraint() {
+//        self.webView!.translatesAutoresizingMaskIntoConstraints = false;
+        let left = NSLayoutConstraint.init(item: self.webView!, attribute: NSLayoutAttribute.left, relatedBy: NSLayoutRelation.equal, toItem: self.view, attribute: NSLayoutAttribute.left, multiplier: 1.0, constant: 0);
+        self.webView?.superview?.addConstraint(left);
+        
+        var offSetY:CGFloat = 0;
+        if self.navigationController == nil {
+            offSetY = 64;
+        }
+        let top = NSLayoutConstraint.init(item: self.webView!, attribute: NSLayoutAttribute.top, relatedBy: NSLayoutRelation.equal, toItem: self.view, attribute: NSLayoutAttribute.top, multiplier: 1.0, constant: offSetY);
+        self.webView?.superview?.addConstraint(top);
+        
+        let right = NSLayoutConstraint.init(item: self.webView!, attribute: NSLayoutAttribute.right, relatedBy: NSLayoutRelation.equal, toItem: self.view, attribute: NSLayoutAttribute.right, multiplier: 1.0, constant: 0);
+        self.webView?.superview?.addConstraint(right);
+       
+        let bottom = NSLayoutConstraint.init(item: self.webView!, attribute: NSLayoutAttribute.bottom, relatedBy: NSLayoutRelation.equal, toItem: self.view, attribute: NSLayoutAttribute.bottom, multiplier: 1.0, constant: 0);
+        self.webView?.superview?.addConstraint(bottom);
+
     }
     
     // MARK: - 返回

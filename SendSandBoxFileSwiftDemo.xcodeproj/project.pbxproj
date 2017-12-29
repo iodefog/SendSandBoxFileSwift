@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		C7AF2E8C1FF3AE960001B79D /* LogsReadWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7AF2E8B1FF3AE960001B79D /* LogsReadWebViewController.swift */; };
 		C7AF2EF21FF5CDCF0001B79D /* test.txt in Resources */ = {isa = PBXBuildFile; fileRef = C7AF2EF11FF5CDCE0001B79D /* test.txt */; };
-		C7AF2EF41FF5F3270001B79D /* com.56.mobile.video.log in Resources */ = {isa = PBXBuildFile; fileRef = C7AF2EF31FF5F3270001B79D /* com.56.mobile.video.log */; };
+		C7AF2EF61FF6235D0001B79D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C7AF2EF51FF6235D0001B79D /* README.md */; };
 		C7F6BB511FEA4F62009A0EEA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F6BB501FEA4F62009A0EEA /* AppDelegate.swift */; };
 		C7F6BB531FEA4F62009A0EEA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F6BB521FEA4F62009A0EEA /* ViewController.swift */; };
 		C7F6BB561FEA4F62009A0EEA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7F6BB541FEA4F62009A0EEA /* Main.storyboard */; };
@@ -21,7 +21,7 @@
 /* Begin PBXFileReference section */
 		C7AF2E8B1FF3AE960001B79D /* LogsReadWebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogsReadWebViewController.swift; sourceTree = "<group>"; };
 		C7AF2EF11FF5CDCE0001B79D /* test.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test.txt; sourceTree = "<group>"; };
-		C7AF2EF31FF5F3270001B79D /* com.56.mobile.video.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = com.56.mobile.video.log; sourceTree = "<group>"; };
+		C7AF2EF51FF6235D0001B79D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		C7F6BB4D1FEA4F62009A0EEA /* SendSandBoxFileSwiftDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SendSandBoxFileSwiftDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7F6BB501FEA4F62009A0EEA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C7F6BB521FEA4F62009A0EEA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -64,8 +64,8 @@
 			children = (
 				C7F6BB501FEA4F62009A0EEA /* AppDelegate.swift */,
 				C7F6BB521FEA4F62009A0EEA /* ViewController.swift */,
+				C7AF2EF51FF6235D0001B79D /* README.md */,
 				C7AF2EF11FF5CDCE0001B79D /* test.txt */,
-				C7AF2EF31FF5F3270001B79D /* com.56.mobile.video.log */,
 				C7F6BB621FEA4FBE009A0EEA /* SendSandBoxFileSwift */,
 				C7F6BB541FEA4F62009A0EEA /* Main.storyboard */,
 				C7F6BB571FEA4F62009A0EEA /* Assets.xcassets */,
@@ -144,8 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7F6BB5B1FEA4F62009A0EEA /* LaunchScreen.storyboard in Resources */,
-				C7AF2EF41FF5F3270001B79D /* com.56.mobile.video.log in Resources */,
 				C7F6BB581FEA4F62009A0EEA /* Assets.xcassets in Resources */,
+				C7AF2EF61FF6235D0001B79D /* README.md in Resources */,
 				C7AF2EF21FF5CDCF0001B79D /* test.txt in Resources */,
 				C7F6BB561FEA4F62009A0EEA /* Main.storyboard in Resources */,
 			);

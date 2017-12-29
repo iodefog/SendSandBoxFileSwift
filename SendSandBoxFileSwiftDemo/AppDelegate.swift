@@ -26,13 +26,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         let testText = try? String.init(contentsOfFile: path!, encoding: String.Encoding.utf8);
         try? testText?.write(toFile: documentPath, atomically: true, encoding: String.Encoding.utf8);
         
-        let logPath = Bundle.main.path(forResource: "com.56.mobile.video", ofType: "log")
-        let logTestText = try? String.init(contentsOfFile: logPath!, encoding: String.Encoding.utf8);
-        var documentPath2:String = NSSearchPathForDirectoriesInDomains(FileManager.SearchPathDirectory.documentDirectory, FileManager.SearchPathDomainMask.userDomainMask, true).first!;
-        documentPath2 = documentPath2+String("/com.sohu.mobile.log");
-        try? logTestText?.write(toFile: documentPath2, atomically: true, encoding: String.Encoding.utf8);
-        
-        
         return true
     }
 
